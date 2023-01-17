@@ -19,7 +19,7 @@ public class ActivePlayer : Entity<Guid>
         this.gameId = gameId;
         this.scoredPoints = scoredPoints;
         this.type = type;
-        base.Id = new Guid();
+        base.Id = Guid.NewGuid();
     }
 
     public Guid PlayerId

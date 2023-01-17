@@ -9,7 +9,7 @@ public class Student : Entity<Guid>
     {
         this.name = name;
         this.school = school;
-        base.Id = new Guid();
+        base.Id = Guid.NewGuid();
     }
 
     public string Name

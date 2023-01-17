@@ -7,18 +7,19 @@ public class Team : Entity<Guid>
     public Team(string name)
     {
         this.name = name;
-        base.Id = new Guid();
+        base.Id = Guid.NewGuid();
     }
 
-    public Team(Guid id, string name)
-    {
-        this.name = name;
-        base.Id = id;
-    }
+    public Team() { }
 
     public string Name
     {
         get => name;
         set => name = value ?? throw new ArgumentNullException(nameof(value));
+    }
+
+    public override string ToString()
+    {
+        return name;
     }
 }

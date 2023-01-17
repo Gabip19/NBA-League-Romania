@@ -11,6 +11,7 @@ public class Game : Entity<Guid>
         this.firstTeam = firstTeam;
         this.secondTeam = secondTeam;
         this.gameDate = gameDate;
+        base.Id = Guid.NewGuid();
     }
 
     public Team FirstTeam
