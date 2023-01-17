@@ -1,25 +1,28 @@
-﻿using System.Xml.Linq;
-using NBA_League_Romania.domain;
+﻿using NBA_League_Romania.domain;
 
 namespace NBA_League_Romania.Repository.FileRepository;
 
-public abstract class FileRepo<E> : InMemoryRepo<E>
+
+public abstract class InFileRepo<E> : InMemoryRepo<E>
     where E : Entity<Guid>, new()
 {
     private string fileName;
+    protected CreateEntity<E> createEntity;
 
-    protected FileRepo(string fileName)
+    protected InFileRepo(string fileName, CreateEntity<E> createEntity)
     {
         this.fileName = fileName;
-        LoadFromFile();
+        this.createEntity = createEntity;
+        if (createEntity != null)
+            LoadFromFile();
     }
 
-    private void LoadFromFile()
+    protected virtual void LoadFromFile()
     {
-        foreach (var line in File.ReadLines(fileName))
-        {
-            base.Save(ExtractEntityFromString(line));
-        }
+        List<E> entitiesList = DataReader.ReadData(fileName, createEntity);
+        entitiesList.ForEach(
+            x => entities[x.Id] = x
+        );
     }
 
     public override E Save(E entity)
@@ -53,7 +56,5 @@ public abstract class FileRepo<E> : InMemoryRepo<E>
             WriteToFile(entity);
         }
     }
-
-    protected abstract E ExtractEntityFromString(string line);
     protected abstract string CreateEntityAsString(E entity);
 }
