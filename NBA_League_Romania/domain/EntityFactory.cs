@@ -1,4 +1,6 @@
-﻿namespace NBA_League_Romania.domain;
+﻿using NBA_League_Romania.Repository.FileRepository;
+
+namespace NBA_League_Romania.domain;
 
 public static class EntityFactory
 {
@@ -35,5 +37,31 @@ public static class EntityFactory
         };
         
         return activePlayer;
+    }
+
+    public static Player CreatePlayer(string[] properties, Finder<Team> teamFinder)
+    {
+        var player = new Player(
+            properties[1],
+            properties[2],
+            teamFinder(Guid.Parse(properties[3]))
+        )
+        {
+            Id = Guid.Parse(properties[0])
+        };
+        return player;
+    }
+
+    public static Game CreateGame(string[] properties, Finder<Team> teamFinder)
+    {
+        var game = new Game(
+            teamFinder(Guid.Parse(properties[1])),
+            teamFinder(Guid.Parse(properties[2])),
+            DateTime.Parse(properties[3])
+        )
+        {
+            Id = Guid.Parse(properties[0])
+        };
+        return game;
     }
 }

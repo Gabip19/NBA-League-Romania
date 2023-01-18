@@ -6,6 +6,8 @@ public class Game : Entity<Guid>
     private Team secondTeam;
     private DateTime gameDate;
 
+    public Game() { }
+    
     public Game(Team firstTeam, Team secondTeam, DateTime gameDate)
     {
         this.firstTeam = firstTeam;

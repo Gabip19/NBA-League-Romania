@@ -2,6 +2,7 @@
 
 namespace NBA_League_Romania.Repository.FileRepository;
 
+public delegate E Finder<E>(Guid id);
 
 public abstract class InFileRepo<E> : InMemoryRepo<E>
     where E : Entity<Guid>, new()

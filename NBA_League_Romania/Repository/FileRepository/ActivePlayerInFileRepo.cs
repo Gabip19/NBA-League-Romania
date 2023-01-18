@@ -4,7 +4,7 @@ namespace NBA_League_Romania.Repository.FileRepository;
 
 public class ActivePlayerInFileRepo : InFileRepo<ActivePlayer>
 {
-    public ActivePlayerInFileRepo(string fileName, CreateEntity<ActivePlayer> createEntity) 
+    public ActivePlayerInFileRepo(string fileName) 
         : base(fileName, EntityFactory.CreateActivePlayer) { }
 
     protected override string CreateEntityAsString(ActivePlayer entity)
