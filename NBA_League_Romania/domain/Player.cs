@@ -9,6 +9,8 @@ public class Player : Student
         this.team = team;
     }
 
+    public Player() { }
+
     public Team Team
     {
         get => team;

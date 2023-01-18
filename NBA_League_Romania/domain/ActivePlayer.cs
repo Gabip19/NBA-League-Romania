@@ -2,8 +2,8 @@
 
 public enum ActivePlayerType
 {
-    PARTICIPANT,
-    RESERVE
+    Participant,
+    Reserve
 }
 
 public class ActivePlayer : Entity<Guid>
@@ -13,6 +13,8 @@ public class ActivePlayer : Entity<Guid>
     private int scoredPoints;
     private ActivePlayerType type;
 
+    public ActivePlayer() {}
+    
     public ActivePlayer(Guid playerId, Guid gameId, int scoredPoints, ActivePlayerType type)
     {
         this.playerId = playerId;

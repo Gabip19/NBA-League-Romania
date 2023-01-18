@@ -6,7 +6,7 @@ namespace NBA_League_Romania.Repository.FileRepository;
 public abstract class InFileRepo<E> : InMemoryRepo<E>
     where E : Entity<Guid>, new()
 {
-    private string fileName;
+    protected string fileName;
     protected CreateEntity<E> createEntity;
 
     protected InFileRepo(string fileName, CreateEntity<E> createEntity)

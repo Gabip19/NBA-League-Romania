@@ -5,6 +5,8 @@ public class Student : Entity<Guid>
     private string name;
     private string school;
 
+    public Student() {}
+    
     public Student(string name, string school)
     {
         this.name = name;
