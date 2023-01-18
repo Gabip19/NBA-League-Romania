@@ -1,0 +1,150 @@
+ae464626-d7cd-4843-a93d-32bc616c6cf5;Cristina Adriana;Scoala Gimnaziala Horea
+41c412ab-2553-452a-9860-779ebc351ede;Adela Petronela;Scoala Gimnaziala Horea
+8472fad4-d10a-43d2-85b2-d5864c41b488;Iuliu Ani;Scoala Gimnaziala Horea
+dde8ee59-c111-4a72-ae2f-e5bd2f61fdd8;Iulian Maricica;Scoala Gimnaziala Horea
+598cfdab-c94e-42ff-8b50-29e25d3d7170;Iosif Simon;Scoala Gimnaziala Horea
+9e5915f6-eb65-4e50-8ffe-5ec6e1c1be92;Aurel Rebeca;Scoala Gimnaziala Horea
+5443f1ee-d45f-424d-9821-99673cb76b17;Lenuta Sanda;Scoala Gimnaziala Horea
+4c89c3a0-7c9e-4b44-b275-0f8632fbe70c;Eugenia Melania;Scoala Gimnaziala Horea
+e17055b5-03e3-4beb-a765-b8a3491e96bf;Amalia Dragos;Scoala Gimnaziala Horea
+2a92fdec-b091-4f57-8441-d764396ce61a;Emanuela Emil;Scoala Gimnaziala Horea
+cafb2825-a6d2-4ea2-9088-e134a2a6a4fe;Nicolae Filip;Scoala Gimnaziala Horea
+bf68ac90-1044-4b3a-9b0c-83be08227496;Catalina Ovidiu;Scoala Gimnaziala Horea
+94c43a7d-1066-4403-a72d-2b13c573dca2;Constantin Rozalia;Scoala Gimnaziala Horea
+b0105881-753d-47b1-a610-ed29194eb0f6;Aurora Cezar;Scoala Gimnaziala Horea
+5423a82d-e79b-497d-bada-cf7c0a270d81;Luminita Sofia;Scoala Gimnaziala Horea
+230a753b-bcb7-40ff-9cc1-bc28aa75495e;Simion Delia;Scoala Gimnaziala Octavian Goga
+ba07e840-40de-4ee7-9de0-7f77528d21f0;Horia Amalia;Scoala Gimnaziala Octavian Goga
+f7697087-0083-42ff-87f6-abf994e8148d;Flaviu Ionela;Scoala Gimnaziala Octavian Goga
+2b6c55b6-f7f0-409f-9419-3d6ae6874c4e;Danut Veronica;Scoala Gimnaziala Octavian Goga
+399282e2-7bad-4d24-8466-25fdb3f4bf1f;Oana Ramona;Scoala Gimnaziala Octavian Goga
+f66826dd-dab8-4b0b-b50f-a3615be134a6;Valeria George;Scoala Gimnaziala Octavian Goga
+a1e4d946-1d64-4d5d-82dd-c2e536cc49ed;Cornel Lavinia;Scoala Gimnaziala Octavian Goga
+b009de0e-29e5-4529-9dd5-b253b6c25002;Beatrice Isabela;Scoala Gimnaziala Octavian Goga
+478f697c-f362-4dd1-90bb-35c2bf454799;Octavian Ilinca;Scoala Gimnaziala Octavian Goga
+b26beca5-22ce-47b4-8ec1-f5564f85f803;Razvan Octavia;Scoala Gimnaziala Octavian Goga
+e2cbd938-21b8-484b-a9a0-141e441a9707;Stefania Daniel;Scoala Gimnaziala Octavian Goga
+2a1e38bb-a842-444a-be2e-35219beba7b8;Cezara Natalia;Scoala Gimnaziala Octavian Goga
+865a747e-2d8c-47bd-956a-c16702aaf1e7;Marinela Elisabeta;Scoala Gimnaziala Octavian Goga
+2f6240c5-ea1a-414a-b62d-60f36beef9d3;Ancuta Noemi;Scoala Gimnaziala Octavian Goga
+96d04cd9-23b7-47c1-8eb1-912ee46ee029;Neculai Sebastian;Scoala Gimnaziala Octavian Goga
+98dd1a7f-b15d-462d-8b59-acd4c0f7c617;Elisabeta Ion;Liceul Teoretic Lucian Blaga
+1d1bbea1-fac4-4cac-9079-e57644d2f6d8;Petrut Camelia;Liceul Teoretic Lucian Blaga
+2c84debc-4d37-4987-8e83-a9ac07ea3e2a;Bianca Alina;Liceul Teoretic Lucian Blaga
+424243d5-c08a-4e7f-b07c-1f1961a71b91;Denisa Nicusor;Liceul Teoretic Lucian Blaga
+e1dddc68-e96f-4ec4-9ca5-4a21d5c77f14;Ancuta Iulian;Liceul Teoretic Lucian Blaga
+2e661cee-40b5-4782-a8cc-b4e6ec1b8c6c;Catina Violeta;Liceul Teoretic Lucian Blaga
+22379d49-ec24-4d81-91e7-e0937320d02d;Casandra Razvan;Liceul Teoretic Lucian Blaga
+a7d66795-4cd9-4b14-a849-e14d18abd1f7;Valeriu Magda;Liceul Teoretic Lucian Blaga
+51712ceb-585f-48eb-b1d2-deabe56b9767;Virgil Iuliana;Liceul Teoretic Lucian Blaga
+104c46e9-a13a-4b40-b810-e1788bec7ff8;Dorina Ileana;Liceul Teoretic Lucian Blaga
+6ea17926-a721-423c-bd24-221fc1078ac6;Virgil Octavian;Liceul Teoretic Lucian Blaga
+edb4421a-751f-4bff-ab6c-602a44f17695;Ladislau Mihail;Liceul Teoretic Lucian Blaga
+d8817e6a-af8e-4426-8382-e09a2504a060;Antonia Victor;Liceul Teoretic Lucian Blaga
+25f6f90d-7fdb-41d9-858b-b67280f2a9fb;Sebastian Robert;Liceul Teoretic Lucian Blaga
+0834cfda-b54d-4846-a5d8-71993d70e485;Bogdan Ecaterina;Liceul Teoretic Lucian Blaga
+624cb803-570d-40c9-8ae2-f27495a03b25;Mihail Andra;Scoala Gimnaziala "Ioan Bob"
+4da04e00-6a81-46e7-a43b-b4ae84d69427;Carmen Ruxandra;Scoala Gimnaziala "Ioan Bob"
+f78148a1-de1e-48b1-a17e-94705bf45257;Cristiana Ilie;Scoala Gimnaziala "Ioan Bob"
+fac54204-9987-41b0-97df-f83b0241401b;Fane Sebastian;Scoala Gimnaziala "Ioan Bob"
+d0e18074-307b-487c-adef-f52dacba8f7f;Ancuta Georgiana;Scoala Gimnaziala "Ioan Bob"
+1bad1551-5b09-488c-86f7-fa156e7b72ca;Silvia Valentin;Scoala Gimnaziala "Ioan Bob"
+0d36cf99-6dda-4d9b-a2e6-9150967620e9;Razvan Delia;Scoala Gimnaziala "Ioan Bob"
+0f6875fe-5958-42e0-8cd2-261fc52ab836;Isabella Demetra;Scoala Gimnaziala "Ioan Bob"
+985b6ae9-659e-42a3-8d92-018c9ca33481;Ilie Rares;Scoala Gimnaziala "Ioan Bob"
+5a24d2bd-a3f1-483c-9fed-6a40d4bd874c;Vasilica Ioana;Scoala Gimnaziala "Ioan Bob"
+bf5727d2-9bb9-4fc9-9078-fab8d0312323;Noemi Raluca;Scoala Gimnaziala "Ioan Bob"
+c3a4829a-7454-4899-81f0-fdf31933f4ac;Raul Alexandra;Scoala Gimnaziala "Ioan Bob"
+10a38d17-2820-4abf-8fdd-0920c7badb3b;Andra Anghel;Scoala Gimnaziala "Ioan Bob"
+89a9f508-20d3-4bb8-b0f2-758e66d0d140;Violeta Adrian;Scoala Gimnaziala "Ioan Bob"
+4fb42bed-5cbc-485d-9376-43639562771f;Margareta Corneliu;Scoala Gimnaziala "Ioan Bob"
+0c0dce9b-d0cd-4467-9f72-7097eb8ccdc5;Costin Magda;Scoala Gimnaziala "Ion Creanga"
+cf628857-ac29-4a79-9399-5a3727bbcfdc;Lavinia Liviu;Scoala Gimnaziala "Ion Creanga"
+1fe5ab6a-ea38-4b43-bc32-fd3608e0c480;Ovidia Theodor;Scoala Gimnaziala "Ion Creanga"
+4ca4ed30-a6a6-4741-8611-ac5f2b9abc8e;Emil Beatrice;Scoala Gimnaziala "Ion Creanga"
+58f0152a-cdd9-4461-b2e5-d5c20509d01a;Florina Corneliu;Scoala Gimnaziala "Ion Creanga"
+1ea57a28-017d-4f7a-90fb-dc2e0a2a7001;Alin Laurențiu;Scoala Gimnaziala "Ion Creanga"
+8c4dc34b-fd3f-4548-8667-b278440641df;Lavinia Horia;Scoala Gimnaziala "Ion Creanga"
+031de140-efbc-4e05-9338-79f1fec6ca21;Diana Aurel;Scoala Gimnaziala "Ion Creanga"
+e17f49e1-5ea5-408f-a882-05a81a2757bb;Anton Nicusor;Scoala Gimnaziala "Ion Creanga"
+e61c54e7-f3d4-449a-adf9-330eea88208b;Nicolae Apostol;Scoala Gimnaziala "Ion Creanga"
+694de818-f057-4ceb-9035-d0320e19aee3;Viorel Maricica;Scoala Gimnaziala "Ion Creanga"
+f0aba324-8689-431e-a96d-7db1ac6b09ef;Mihaită Ilie;Scoala Gimnaziala "Ion Creanga"
+98a30259-e46d-4b1b-b68d-39583af8ebc9;Valentina Gavril;Scoala Gimnaziala "Ion Creanga"
+04f02213-9b4a-450d-ac76-ed8d78624aeb;Amalia Dorian;Scoala Gimnaziala "Ion Creanga"
+dd7c98dd-1c00-446b-aec0-59dcccbfb1d1;Simona Felicia;Scoala Gimnaziala "Ion Creanga"
+0f0ac98e-21ba-4b3d-ad10-f32b6a4a35f1;Mihail Liana;Colegiul National Pedagogic "Gheorghe Lazar"
+a3a74a81-5199-42c5-b89a-283a4dbf5aab;Doina Pompiliu;Colegiul National Pedagogic "Gheorghe Lazar"
+81346a89-8993-4ccd-8043-4d034d5ebf8e;Gavrila Nicoleta;Colegiul National Pedagogic "Gheorghe Lazar"
+14a2c0be-d1ca-4be7-a298-ca8082cc20c6;Cristiana Luca;Colegiul National Pedagogic "Gheorghe Lazar"
+54ae4aca-3e3d-4d16-b41b-b11195a9ea7d;Cezar Miron;Colegiul National Pedagogic "Gheorghe Lazar"
+86f164dc-1c89-4436-99c5-8e0d747f5367;Otilia Miruna;Colegiul National Pedagogic "Gheorghe Lazar"
+71fc3295-f1a6-4dfe-a62b-66b25409cee6;Elisabeta Georgeta;Colegiul National Pedagogic "Gheorghe Lazar"
+18eba609-77d2-4628-92f2-f3e2164f8d76;Adi Vasilica;Colegiul National Pedagogic "Gheorghe Lazar"
+9eee8171-954d-4b08-a748-d2107f5f15f4;Emilia Ionela;Colegiul National Pedagogic "Gheorghe Lazar"
+bda42efd-ff63-4aa5-8112-5a2ba68b9e23;Remus Catalina;Colegiul National Pedagogic "Gheorghe Lazar"
+6a01cfbf-c692-4cc7-b041-bf797f9a1617;Antonia Nicu;Colegiul National Pedagogic "Gheorghe Lazar"
+569282ad-a220-44ef-885f-f3c1605eb5af;Larisa Anastasie;Colegiul National Pedagogic "Gheorghe Lazar"
+dc232012-ce4f-4c89-b55c-d813795d4b18;Toma Mariana;Colegiul National Pedagogic "Gheorghe Lazar"
+b1c7410c-422b-401f-86b6-2486d0a94dd1;Denis Doru;Colegiul National Pedagogic "Gheorghe Lazar"
+422be15b-8aed-42e9-8224-de5aecc81a97;Florentin Gabriel;Colegiul National Pedagogic "Gheorghe Lazar"
+706d8b71-49da-40fe-9c83-ad53f06d136d;Maricica Ioan;Scoala Gimnaziala Internationala SPECTRUM
+9e5b5f58-142b-4b6c-9623-60ddd0dc5c07;Constanta Doina;Scoala Gimnaziala Internationala SPECTRUM
+c1b71a6c-4a16-4354-ab5b-d2a7c9fcdfd4;Ilie Mihai;Scoala Gimnaziala Internationala SPECTRUM
+025c38ac-1418-427d-8f09-b069f75d5a01;Valentin Cristian;Scoala Gimnaziala Internationala SPECTRUM
+11bf9105-49f5-45f3-bbf7-2a018c3fece5;Elisabeta Daria;Scoala Gimnaziala Internationala SPECTRUM
+b96ed6cd-c978-4fe9-999a-11ff8bddbeb6;Ioana Camelia;Scoala Gimnaziala Internationala SPECTRUM
+2dc194cf-4052-439b-ba71-83824b5e3145;Anca Horea;Scoala Gimnaziala Internationala SPECTRUM
+fac3f7d9-b246-4b24-8aa6-ad16a787b9a7;Toma Natalia;Scoala Gimnaziala Internationala SPECTRUM
+a937fe49-bac5-48ac-830e-ba50da18ffcd;Sofia Magda;Scoala Gimnaziala Internationala SPECTRUM
+20f9f644-075d-4ebf-b655-c46267be1825;Valerian Loredana;Scoala Gimnaziala Internationala SPECTRUM
+d1ffcd50-2874-4f78-b2ba-3b2b9dbd1bcd;Laura Horea;Scoala Gimnaziala Internationala SPECTRUM
+6f773258-1495-46ac-9031-25b435223f8a;Catina Emanuel;Scoala Gimnaziala Internationala SPECTRUM
+33f19725-eb46-4fa1-a71f-52efafd8c669;Lucian Ionela;Scoala Gimnaziala Internationala SPECTRUM
+1244dc8d-91f8-42a6-b65a-430bc0af1ad6;Crina Florina;Scoala Gimnaziala Internationala SPECTRUM
+4111a8e6-02d7-4f5b-a56f-8fdbabd33334;Casandra Isabella;Scoala Gimnaziala Internationala SPECTRUM
+41e46277-8e30-42f9-9481-d8d065fd1e79;Robert Timotei;Colegiul National "Emil Racovita"
+e6d82bb3-50d7-43df-ad0c-489fc4cbd483;Luciana Teodora;Colegiul National "Emil Racovita"
+2e82b341-7419-401a-be28-8c6d709b3c8e;Leonard Iosif;Colegiul National "Emil Racovita"
+2413e69b-7ec7-4c69-b5c0-9b682e1cf724;Nicusor Traian;Colegiul National "Emil Racovita"
+c5e89ba7-b072-40cf-b3b6-4d61ac3f371b;Fabian Dragos;Colegiul National "Emil Racovita"
+a1b2eede-2291-4580-85bb-c5083ffa8868;Sonia Alin;Colegiul National "Emil Racovita"
+8771d832-8c1d-471f-80b5-ef10b8f122fe;Eduard Adi;Colegiul National "Emil Racovita"
+7fc28592-ad17-484e-b198-0e938d5742a6;Livia Sergiu;Colegiul National "Emil Racovita"
+ec8d0143-7cb9-4978-b68a-bfb78b91ebf9;Gabi Oana;Colegiul National "Emil Racovita"
+aa15ac85-ef67-4cf6-9d77-544f05ff9758;Petru Ovidiu;Colegiul National "Emil Racovita"
+9a8002fe-f5d9-4d87-be1f-3144601efc25;Ruxandra Codrin;Colegiul National "Emil Racovita"
+cd3ca24d-e124-4162-93db-fb2c23c5c269;Rebeca Casandra;Colegiul National "Emil Racovita"
+7cf60ab4-7df5-48c5-98dc-0f8094b56d37;Ramona Alexandrina;Colegiul National "Emil Racovita"
+5b3da8ca-ba5a-4f82-9151-25a2b36ba6c3;Daniela Vali;Colegiul National "Emil Racovita"
+657dea2c-af3e-4dcd-a9af-e8b06c49b32f;Marta Octavian;Colegiul National "Emil Racovita"
+e9e833c7-298a-4957-aae9-ec210b44b8c1;Mihai Stefana;Colegiul National "George Cosbuc"
+bbc5a91f-7d4b-4f97-8921-ce2845931b48;Mitica Lavinia;Colegiul National "George Cosbuc"
+68d58361-1996-45d6-b52c-527b61c73d94;Ion Fabian;Colegiul National "George Cosbuc"
+4c29868f-74f0-4675-8110-750e7acaa521;Eliza Bogdan;Colegiul National "George Cosbuc"
+b4c8314f-ccbd-4b5d-bcbe-ced997c2f3f0;Georgeta Marin;Colegiul National "George Cosbuc"
+c9c3b487-0091-407f-ab22-0736c5425f68;Ovidiu Adela;Colegiul National "George Cosbuc"
+2944e15d-221b-41f5-a855-27494794f9a9;David Ionel;Colegiul National "George Cosbuc"
+eddaaff9-98b6-4dab-8b07-e01043af2888;Marius Sara;Colegiul National "George Cosbuc"
+f55f633c-c878-4a23-a1a9-edd8cdae8476;Antonia Rodica;Colegiul National "George Cosbuc"
+29fbe152-27d0-4b2f-a884-72a3b047cf62;Martin Cornel;Colegiul National "George Cosbuc"
+ad9b09a9-5652-4e2b-a4cf-ffbe47a07834;Nicusor Sofia;Colegiul National "George Cosbuc"
+56f6767f-bc3a-4053-835f-ef0ac210e064;Damian Ladislau;Colegiul National "George Cosbuc"
+eb63c36a-feab-44ea-b4a4-00391b9312e5;Cristiana Loredana;Colegiul National "George Cosbuc"
+2fb30975-f0e2-4c58-a035-93199f2178f4;Ionela Antoniu;Colegiul National "George Cosbuc"
+9f11a95b-27fa-4cc6-9cbe-5367e171526e;Manuel Anastasie;Colegiul National "George Cosbuc"
+0fb692d0-e8c1-4a87-833d-b295b6d22201;Iulian Maria;Scoala Gimnaziala "Ion Agarbiceanu"
+b34b2be2-53ef-4372-a735-d88ba866d94a;Fabian Vasilica;Scoala Gimnaziala "Ion Agarbiceanu"
+a13a6a16-8b20-45a7-88cb-304bacc443bd;Doina Lucia;Scoala Gimnaziala "Ion Agarbiceanu"
+effad702-14c6-4bb9-a99a-adfa1313a2cf;Carol Vasilica;Scoala Gimnaziala "Ion Agarbiceanu"
+651d5765-95ff-4a0d-9244-23a0877880dd;Larisa Isabella;Scoala Gimnaziala "Ion Agarbiceanu"
+3991836f-1f21-46f4-ab1f-ec3475617d45;Gabi Eusebiu;Scoala Gimnaziala "Ion Agarbiceanu"
+28638f83-8742-4277-856a-f88cc2636ecb;Angela Lucian;Scoala Gimnaziala "Ion Agarbiceanu"
+9b516429-99d6-4f3b-a04b-8b8c3eb22523;Cezara Pompiliu;Scoala Gimnaziala "Ion Agarbiceanu"
+49d9bc0b-d3d3-4406-8e26-38825dd484c6;Decebal Livia;Scoala Gimnaziala "Ion Agarbiceanu"
+0959f3cb-8276-482a-9afa-367f0849d49e;Alin Ligia;Scoala Gimnaziala "Ion Agarbiceanu"
+7e3919a2-4107-4f27-9ce4-50163787cbc8;Aurica Luca;Scoala Gimnaziala "Ion Agarbiceanu"
+426d9de5-e15c-4523-a063-670ff98cf993;Ciprian Catalin;Scoala Gimnaziala "Ion Agarbiceanu"
+21b0e599-ae40-4185-b2d0-6d9a639b31c4;Gavrila Cosmina;Scoala Gimnaziala "Ion Agarbiceanu"
+2821b604-33e8-4768-862d-991a08525205;Virginia Maricica;Scoala Gimnaziala "Ion Agarbiceanu"
+09695394-cbfc-4f84-842e-b5cbbfb2db92;Silvia Carmen;Scoala Gimnaziala "Ion Agarbiceanu"

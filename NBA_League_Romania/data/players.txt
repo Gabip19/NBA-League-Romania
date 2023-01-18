@@ -1,0 +1,420 @@
+ed802feb-50b0-4397-b540-d4f4dc036c44;Cristina Adriana;Scoala Gimnaziala Horea;1da54e20-2495-405b-9b4c-e5ea011da197
+0c59b56f-4864-4dcd-8044-e08e2005b24d;Adela Petronela;Scoala Gimnaziala Horea;1da54e20-2495-405b-9b4c-e5ea011da197
+05140ec8-342a-4b33-b0e2-c2f3c0e79595;Iuliu Ani;Scoala Gimnaziala Horea;1da54e20-2495-405b-9b4c-e5ea011da197
+574c0529-5f42-429d-8d6e-b4387a273f8b;Iulian Maricica;Scoala Gimnaziala Horea;1da54e20-2495-405b-9b4c-e5ea011da197
+bbc3abdb-17d8-45a7-890d-3f6d86512b57;Iosif Simon;Scoala Gimnaziala Horea;1da54e20-2495-405b-9b4c-e5ea011da197
+25598500-f73d-4117-9f49-e8ee44434c4f;Aurel Rebeca;Scoala Gimnaziala Horea;1da54e20-2495-405b-9b4c-e5ea011da197
+755787c0-b2c5-47ff-a3c0-dba97e7089c9;Lenuta Sanda;Scoala Gimnaziala Horea;1da54e20-2495-405b-9b4c-e5ea011da197
+04479a1c-042b-452a-bd73-11c607d15de5;Eugenia Melania;Scoala Gimnaziala Horea;1da54e20-2495-405b-9b4c-e5ea011da197
+b967864f-1550-4df2-9504-3e603e8ba94e;Amalia Dragos;Scoala Gimnaziala Horea;1da54e20-2495-405b-9b4c-e5ea011da197
+984b051e-d534-4f95-b4e4-e7f5d446c878;Emanuela Emil;Scoala Gimnaziala Horea;1da54e20-2495-405b-9b4c-e5ea011da197
+263198ac-b7e0-4f1f-8d94-c300a62eddb4;Nicolae Filip;Scoala Gimnaziala Horea;1da54e20-2495-405b-9b4c-e5ea011da197
+ff3c26c2-f3b5-4abe-b376-1ac40e8f47fd;Catalina Ovidiu;Scoala Gimnaziala Horea;1da54e20-2495-405b-9b4c-e5ea011da197
+4669f0dd-10b6-40be-b3cc-97b8ad439d62;Constantin Rozalia;Scoala Gimnaziala Horea;1da54e20-2495-405b-9b4c-e5ea011da197
+2a41c779-a31c-4344-acc9-683fb7136d29;Aurora Cezar;Scoala Gimnaziala Horea;1da54e20-2495-405b-9b4c-e5ea011da197
+24f9c61e-280f-469d-ae82-efdf0ef7b673;Luminita Sofia;Scoala Gimnaziala Horea;1da54e20-2495-405b-9b4c-e5ea011da197
+db9e83a7-e2ef-4cfa-8233-a52d53053f7b;Simion Delia;Scoala Gimnaziala Octavian Goga;f383a580-db61-4191-9c24-e602a97248a2
+398791f9-c0c6-445d-9e45-4727ec6c4e26;Horia Amalia;Scoala Gimnaziala Octavian Goga;f383a580-db61-4191-9c24-e602a97248a2
+ca1fe293-b6b4-461b-a1bf-dbe3b70e5a52;Flaviu Ionela;Scoala Gimnaziala Octavian Goga;f383a580-db61-4191-9c24-e602a97248a2
+e3cbfc2f-2849-4d53-9687-8b5545d02b0d;Danut Veronica;Scoala Gimnaziala Octavian Goga;f383a580-db61-4191-9c24-e602a97248a2
+5538723a-0f12-495e-8bd1-c1a4bf5d59f0;Oana Ramona;Scoala Gimnaziala Octavian Goga;f383a580-db61-4191-9c24-e602a97248a2
+76cbba70-cae5-45be-b3b8-6676839e9fb1;Valeria George;Scoala Gimnaziala Octavian Goga;f383a580-db61-4191-9c24-e602a97248a2
+114d0864-db38-4526-9469-1b8addf4f022;Cornel Lavinia;Scoala Gimnaziala Octavian Goga;f383a580-db61-4191-9c24-e602a97248a2
+c87dba16-47e5-48c7-9cc7-38c7851c32b7;Beatrice Isabela;Scoala Gimnaziala Octavian Goga;f383a580-db61-4191-9c24-e602a97248a2
+ea14fba1-a1ca-49a1-a39b-fd08cbc58a50;Octavian Ilinca;Scoala Gimnaziala Octavian Goga;f383a580-db61-4191-9c24-e602a97248a2
+216dc981-6096-4f01-91b2-0a7de86094d2;Razvan Octavia;Scoala Gimnaziala Octavian Goga;f383a580-db61-4191-9c24-e602a97248a2
+657d5dfa-8376-41eb-bd2b-a48f42eaf28a;Stefania Daniel;Scoala Gimnaziala Octavian Goga;f383a580-db61-4191-9c24-e602a97248a2
+6c4e9684-5336-4627-ae69-aa5162c61c82;Cezara Natalia;Scoala Gimnaziala Octavian Goga;f383a580-db61-4191-9c24-e602a97248a2
+15b56e61-6d26-43a9-bd79-1b25c4de946e;Marinela Elisabeta;Scoala Gimnaziala Octavian Goga;f383a580-db61-4191-9c24-e602a97248a2
+72152f5d-e82b-495f-be5f-ca864158d9c3;Ancuta Noemi;Scoala Gimnaziala Octavian Goga;f383a580-db61-4191-9c24-e602a97248a2
+4638bdfa-9f73-4e62-bfc0-b07a4467ea02;Neculai Sebastian;Scoala Gimnaziala Octavian Goga;f383a580-db61-4191-9c24-e602a97248a2
+631e8b32-24f6-496d-96c6-3e87f675f672;Elisabeta Ion;Liceul Teoretic Lucian Blaga;d383ca8e-8fe1-4f24-ad7a-17d08300e37f
+b4f2abe3-ffd8-49de-bfe0-6fa3b82b4783;Petrut Camelia;Liceul Teoretic Lucian Blaga;d383ca8e-8fe1-4f24-ad7a-17d08300e37f
+ddda3a87-0d1a-4487-ba16-ccdaf45d89a3;Bianca Alina;Liceul Teoretic Lucian Blaga;d383ca8e-8fe1-4f24-ad7a-17d08300e37f
+596e375b-90e8-495e-94f0-d9753fe9c4ad;Denisa Nicusor;Liceul Teoretic Lucian Blaga;d383ca8e-8fe1-4f24-ad7a-17d08300e37f
+8308b28c-0782-47e6-af2c-a4d6068fa76f;Ancuta Iulian;Liceul Teoretic Lucian Blaga;d383ca8e-8fe1-4f24-ad7a-17d08300e37f
+d9030f9c-6ab7-46be-a156-2d6e819ba86c;Catina Violeta;Liceul Teoretic Lucian Blaga;d383ca8e-8fe1-4f24-ad7a-17d08300e37f
+74f1d4c5-c072-4fed-9d0a-d806e849c814;Casandra Razvan;Liceul Teoretic Lucian Blaga;d383ca8e-8fe1-4f24-ad7a-17d08300e37f
+94ffc55a-b6ae-4c51-a0ee-7af3c4528aa1;Valeriu Magda;Liceul Teoretic Lucian Blaga;d383ca8e-8fe1-4f24-ad7a-17d08300e37f
+1c8816ba-a9df-4a79-8c72-6d57ecadfb3c;Virgil Iuliana;Liceul Teoretic Lucian Blaga;d383ca8e-8fe1-4f24-ad7a-17d08300e37f
+daaef2c6-873a-498c-9f6c-22d056047ef6;Dorina Ileana;Liceul Teoretic Lucian Blaga;d383ca8e-8fe1-4f24-ad7a-17d08300e37f
+d333794b-0fbf-474a-83db-38413f7e0008;Virgil Octavian;Liceul Teoretic Lucian Blaga;d383ca8e-8fe1-4f24-ad7a-17d08300e37f
+0e5251e5-ebfa-46d9-ab07-81859d1b1545;Ladislau Mihail;Liceul Teoretic Lucian Blaga;d383ca8e-8fe1-4f24-ad7a-17d08300e37f
+eb0d118e-f14e-4db5-bd56-73261cbdb56d;Antonia Victor;Liceul Teoretic Lucian Blaga;d383ca8e-8fe1-4f24-ad7a-17d08300e37f
+a8286bb1-7f36-4526-b667-ee73a8f42061;Sebastian Robert;Liceul Teoretic Lucian Blaga;d383ca8e-8fe1-4f24-ad7a-17d08300e37f
+5cdba21e-8361-45fc-a6f6-072787c6fed4;Bogdan Ecaterina;Liceul Teoretic Lucian Blaga;d383ca8e-8fe1-4f24-ad7a-17d08300e37f
+af497607-0296-4f5e-a486-fff24ac78ff0;Mihail Andra;Scoala Gimnaziala "Ioan Bob";e18b1a7e-e152-40ec-97c6-8128903e0633
+502211f7-8a9b-4d52-8101-4a4eeec45852;Carmen Ruxandra;Scoala Gimnaziala "Ioan Bob";e18b1a7e-e152-40ec-97c6-8128903e0633
+139fa9d7-aa96-448c-95b4-d8c1e9481f73;Cristiana Ilie;Scoala Gimnaziala "Ioan Bob";e18b1a7e-e152-40ec-97c6-8128903e0633
+3f586b72-2f03-483e-9550-0ba9bb17f2ae;Fane Sebastian;Scoala Gimnaziala "Ioan Bob";e18b1a7e-e152-40ec-97c6-8128903e0633
+ca5de005-5f32-4391-8d91-b3de494dce2c;Ancuta Georgiana;Scoala Gimnaziala "Ioan Bob";e18b1a7e-e152-40ec-97c6-8128903e0633
+af6f14f8-26af-4e08-a9f5-e70f3d5d5c32;Silvia Valentin;Scoala Gimnaziala "Ioan Bob";e18b1a7e-e152-40ec-97c6-8128903e0633
+9e4345b8-cd7b-423a-aced-aaaa28fd5420;Razvan Delia;Scoala Gimnaziala "Ioan Bob";e18b1a7e-e152-40ec-97c6-8128903e0633
+e6acae78-4441-476f-a33f-ca97302e9934;Isabella Demetra;Scoala Gimnaziala "Ioan Bob";e18b1a7e-e152-40ec-97c6-8128903e0633
+5b0bfbb4-ab1f-497a-9f97-f1f893a5fe50;Ilie Rares;Scoala Gimnaziala "Ioan Bob";e18b1a7e-e152-40ec-97c6-8128903e0633
+f749d483-4771-408d-8e12-19efbe86dd03;Vasilica Ioana;Scoala Gimnaziala "Ioan Bob";e18b1a7e-e152-40ec-97c6-8128903e0633
+fbcede0b-a999-4117-ba3d-eed6bb0789d7;Noemi Raluca;Scoala Gimnaziala "Ioan Bob";e18b1a7e-e152-40ec-97c6-8128903e0633
+e55f9204-095e-48a8-ad14-cc03f4a752e8;Raul Alexandra;Scoala Gimnaziala "Ioan Bob";e18b1a7e-e152-40ec-97c6-8128903e0633
+3ae4ddff-8cd5-4f60-a849-6fe0d072394f;Andra Anghel;Scoala Gimnaziala "Ioan Bob";e18b1a7e-e152-40ec-97c6-8128903e0633
+5782c30a-12b0-4923-b73c-5ca159e688ef;Violeta Adrian;Scoala Gimnaziala "Ioan Bob";e18b1a7e-e152-40ec-97c6-8128903e0633
+939ba0cb-4df3-47aa-a5fc-fdb9607eb189;Margareta Corneliu;Scoala Gimnaziala "Ioan Bob";e18b1a7e-e152-40ec-97c6-8128903e0633
+b1caf3e8-ae98-4fa6-9201-78f3b85ee7e7;Costin Magda;Scoala Gimnaziala "Ion Creanga";ca636980-4396-4dcc-ac19-c185d0643dfd
+29db636a-0d63-4a66-9ef3-004ee98309a7;Lavinia Liviu;Scoala Gimnaziala "Ion Creanga";ca636980-4396-4dcc-ac19-c185d0643dfd
+80a376ef-e253-4e80-92a9-faed7fa1fa43;Ovidia Theodor;Scoala Gimnaziala "Ion Creanga";ca636980-4396-4dcc-ac19-c185d0643dfd
+eeec7bd8-8aaa-4257-8e91-95e1c49ad237;Emil Beatrice;Scoala Gimnaziala "Ion Creanga";ca636980-4396-4dcc-ac19-c185d0643dfd
+2b07a826-55d8-44dd-ae06-e3ed13c1bb1e;Florina Corneliu;Scoala Gimnaziala "Ion Creanga";ca636980-4396-4dcc-ac19-c185d0643dfd
+790a9d12-5a0d-444a-9f70-c624e63b7ba4;Alin Laurențiu;Scoala Gimnaziala "Ion Creanga";ca636980-4396-4dcc-ac19-c185d0643dfd
+8c8238aa-c1e6-4a7c-96f6-98233e98dda4;Lavinia Horia;Scoala Gimnaziala "Ion Creanga";ca636980-4396-4dcc-ac19-c185d0643dfd
+96c506d7-1486-4524-b26d-81471238fcf5;Diana Aurel;Scoala Gimnaziala "Ion Creanga";ca636980-4396-4dcc-ac19-c185d0643dfd
+3d5359a8-63e2-41ee-8fae-d4a390f77843;Anton Nicusor;Scoala Gimnaziala "Ion Creanga";ca636980-4396-4dcc-ac19-c185d0643dfd
+d47ad69b-4256-4835-96ad-bbc6d02be3d7;Nicolae Apostol;Scoala Gimnaziala "Ion Creanga";ca636980-4396-4dcc-ac19-c185d0643dfd
+2e0eeb26-eba3-41c5-a8cc-3b2b9a4ca6c8;Viorel Maricica;Scoala Gimnaziala "Ion Creanga";ca636980-4396-4dcc-ac19-c185d0643dfd
+64ef7ef4-231e-4c92-9630-06604e370c7f;Mihaită Ilie;Scoala Gimnaziala "Ion Creanga";ca636980-4396-4dcc-ac19-c185d0643dfd
+ce5a1f89-0845-41d5-bdb3-80e6c70fa2f5;Valentina Gavril;Scoala Gimnaziala "Ion Creanga";ca636980-4396-4dcc-ac19-c185d0643dfd
+bd14b935-85b1-4953-9ba1-3bec54a63ecd;Amalia Dorian;Scoala Gimnaziala "Ion Creanga";ca636980-4396-4dcc-ac19-c185d0643dfd
+f9fe7af6-5396-404e-a103-08f69b2085fe;Simona Felicia;Scoala Gimnaziala "Ion Creanga";ca636980-4396-4dcc-ac19-c185d0643dfd
+959e1941-be39-4d1f-9550-9f858ee309ab;Mihail Liana;Colegiul National Pedagogic "Gheorghe Lazar";225b10fb-1445-46b1-a537-d5bb0a90713d
+294c4f7a-c392-48ee-9a53-dd0271ab0877;Doina Pompiliu;Colegiul National Pedagogic "Gheorghe Lazar";225b10fb-1445-46b1-a537-d5bb0a90713d
+054cda63-54e9-4f92-9cf1-96dfc6c2453f;Gavrila Nicoleta;Colegiul National Pedagogic "Gheorghe Lazar";225b10fb-1445-46b1-a537-d5bb0a90713d
+1424e8ba-97ec-4760-85a6-7b76689abb89;Cristiana Luca;Colegiul National Pedagogic "Gheorghe Lazar";225b10fb-1445-46b1-a537-d5bb0a90713d
+360b91bc-d76e-4b2d-87aa-e001b5fec43a;Cezar Miron;Colegiul National Pedagogic "Gheorghe Lazar";225b10fb-1445-46b1-a537-d5bb0a90713d
+2f0c87d0-4d4e-414b-9021-8875c7a7b602;Otilia Miruna;Colegiul National Pedagogic "Gheorghe Lazar";225b10fb-1445-46b1-a537-d5bb0a90713d
+75ad20fc-f786-45b4-8e7c-2b871fcff7cb;Elisabeta Georgeta;Colegiul National Pedagogic "Gheorghe Lazar";225b10fb-1445-46b1-a537-d5bb0a90713d
+6932b30a-0a7a-4405-89ba-e31f97fb7299;Adi Vasilica;Colegiul National Pedagogic "Gheorghe Lazar";225b10fb-1445-46b1-a537-d5bb0a90713d
+d54e25aa-72f6-4a33-a10b-e0f285d11686;Emilia Ionela;Colegiul National Pedagogic "Gheorghe Lazar";225b10fb-1445-46b1-a537-d5bb0a90713d
+f807eeb4-a85d-4193-8620-3b5efdac6770;Remus Catalina;Colegiul National Pedagogic "Gheorghe Lazar";225b10fb-1445-46b1-a537-d5bb0a90713d
+4446e658-0a9c-4378-9eeb-1618cd20b3e7;Antonia Nicu;Colegiul National Pedagogic "Gheorghe Lazar";225b10fb-1445-46b1-a537-d5bb0a90713d
+36119cf8-5081-41bf-8085-9d245c6d00fa;Larisa Anastasie;Colegiul National Pedagogic "Gheorghe Lazar";225b10fb-1445-46b1-a537-d5bb0a90713d
+cc8b1b2a-af4d-4084-866c-6e5b8a35a240;Toma Mariana;Colegiul National Pedagogic "Gheorghe Lazar";225b10fb-1445-46b1-a537-d5bb0a90713d
+044e9c21-1be9-4359-8796-33b010ca51b8;Denis Doru;Colegiul National Pedagogic "Gheorghe Lazar";225b10fb-1445-46b1-a537-d5bb0a90713d
+04d59477-4825-4ea1-9043-5052af433fc1;Florentin Gabriel;Colegiul National Pedagogic "Gheorghe Lazar";225b10fb-1445-46b1-a537-d5bb0a90713d
+f9a58dc7-f433-42ae-adc7-c2f895148ee1;Maricica Ioan;Scoala Gimnaziala Internationala SPECTRUM;354cd34e-3c46-4142-9f87-46374b9429c5
+2829ab67-7b56-4912-a4fd-ad679e5140c7;Constanta Doina;Scoala Gimnaziala Internationala SPECTRUM;354cd34e-3c46-4142-9f87-46374b9429c5
+a312c57b-6146-4405-a694-60038b3d94c5;Ilie Mihai;Scoala Gimnaziala Internationala SPECTRUM;354cd34e-3c46-4142-9f87-46374b9429c5
+4b4747ad-f7bb-4c2a-ad47-f4672b7e02ce;Valentin Cristian;Scoala Gimnaziala Internationala SPECTRUM;354cd34e-3c46-4142-9f87-46374b9429c5
+900dd215-207f-433c-862a-34b1d6c3414d;Elisabeta Daria;Scoala Gimnaziala Internationala SPECTRUM;354cd34e-3c46-4142-9f87-46374b9429c5
+5ec881e0-be58-4a0c-ac15-634dbfb0164f;Ioana Camelia;Scoala Gimnaziala Internationala SPECTRUM;354cd34e-3c46-4142-9f87-46374b9429c5
+134ad91b-b8c5-4868-8593-09af335a8983;Anca Horea;Scoala Gimnaziala Internationala SPECTRUM;354cd34e-3c46-4142-9f87-46374b9429c5
+f83fcc3f-7cb4-4269-9ba0-6fe318fb6b9e;Toma Natalia;Scoala Gimnaziala Internationala SPECTRUM;354cd34e-3c46-4142-9f87-46374b9429c5
+5ff49a3a-bc77-41f1-83c4-057e2348b686;Sofia Magda;Scoala Gimnaziala Internationala SPECTRUM;354cd34e-3c46-4142-9f87-46374b9429c5
+3a624ab7-fa68-4332-ad90-ca31cb24d5a3;Valerian Loredana;Scoala Gimnaziala Internationala SPECTRUM;354cd34e-3c46-4142-9f87-46374b9429c5
+af268b1e-54ab-4a3c-87c2-f4e676212aa2;Laura Horea;Scoala Gimnaziala Internationala SPECTRUM;354cd34e-3c46-4142-9f87-46374b9429c5
+3080d2e7-1389-4980-900b-2fff9c8ceab4;Catina Emanuel;Scoala Gimnaziala Internationala SPECTRUM;354cd34e-3c46-4142-9f87-46374b9429c5
+24f3e689-ab12-4380-9860-3b6ab639e206;Lucian Ionela;Scoala Gimnaziala Internationala SPECTRUM;354cd34e-3c46-4142-9f87-46374b9429c5
+a6d4e8cd-5cfc-4e3e-87e4-a417d51eac4a;Crina Florina;Scoala Gimnaziala Internationala SPECTRUM;354cd34e-3c46-4142-9f87-46374b9429c5
+89ab5baa-1c50-4a06-b1ee-845c3f39e06d;Casandra Isabella;Scoala Gimnaziala Internationala SPECTRUM;354cd34e-3c46-4142-9f87-46374b9429c5
+9f5b1898-a96d-4adc-b7d0-1c0fe935af44;Robert Timotei;Colegiul National "Emil Racovita";45b6324d-ce68-4bd7-87cd-902e23cd7e25
+28a2edf0-622c-40ef-9fff-f598340f17c7;Luciana Teodora;Colegiul National "Emil Racovita";45b6324d-ce68-4bd7-87cd-902e23cd7e25
+ebbc2a2f-bcdd-4236-8717-584362cd1cd9;Leonard Iosif;Colegiul National "Emil Racovita";45b6324d-ce68-4bd7-87cd-902e23cd7e25
+c930f845-41a4-457d-8c4a-cd9e7a8ce60f;Nicusor Traian;Colegiul National "Emil Racovita";45b6324d-ce68-4bd7-87cd-902e23cd7e25
+d6e86840-1485-4c98-9731-011da3684644;Fabian Dragos;Colegiul National "Emil Racovita";45b6324d-ce68-4bd7-87cd-902e23cd7e25
+47800f8a-2325-46db-ab49-5ab54ce27934;Sonia Alin;Colegiul National "Emil Racovita";45b6324d-ce68-4bd7-87cd-902e23cd7e25
+5621cb73-b5d8-4b22-843e-68ff0f023df1;Eduard Adi;Colegiul National "Emil Racovita";45b6324d-ce68-4bd7-87cd-902e23cd7e25
+1538b540-709f-41c4-894d-646afb99d42c;Livia Sergiu;Colegiul National "Emil Racovita";45b6324d-ce68-4bd7-87cd-902e23cd7e25
+411ea5b1-39fe-4e9f-a969-75386dca9ab8;Gabi Oana;Colegiul National "Emil Racovita";45b6324d-ce68-4bd7-87cd-902e23cd7e25
+8e5f595e-1a71-4310-bf56-5f33fdf3e4b1;Petru Ovidiu;Colegiul National "Emil Racovita";45b6324d-ce68-4bd7-87cd-902e23cd7e25
+d400d791-fa62-40de-88da-8eadffc8ffcc;Ruxandra Codrin;Colegiul National "Emil Racovita";45b6324d-ce68-4bd7-87cd-902e23cd7e25
+be354e11-c313-4f84-ba66-c68080f4d67e;Rebeca Casandra;Colegiul National "Emil Racovita";45b6324d-ce68-4bd7-87cd-902e23cd7e25
+5403375e-406d-4d75-b43b-1f134bedaf63;Ramona Alexandrina;Colegiul National "Emil Racovita";45b6324d-ce68-4bd7-87cd-902e23cd7e25
+8b6fe99a-629a-4c13-9c0e-82450dedbcd6;Daniela Vali;Colegiul National "Emil Racovita";45b6324d-ce68-4bd7-87cd-902e23cd7e25
+36938851-c59e-406e-9390-ea579cfb8cb4;Marta Octavian;Colegiul National "Emil Racovita";45b6324d-ce68-4bd7-87cd-902e23cd7e25
+248dacc6-fafe-4fab-9661-108f87a89dff;Mihai Stefana;Colegiul National "George Cosbuc";fcff2444-75f2-4768-95ad-ff6055780805
+8ad002d6-5160-433c-803f-6448f92bdad2;Mitica Lavinia;Colegiul National "George Cosbuc";fcff2444-75f2-4768-95ad-ff6055780805
+50adfc22-621a-485d-91b9-7bec49b2393d;Ion Fabian;Colegiul National "George Cosbuc";fcff2444-75f2-4768-95ad-ff6055780805
+9cd5bf7c-e44a-43ec-8d47-d1a831e98ad5;Eliza Bogdan;Colegiul National "George Cosbuc";fcff2444-75f2-4768-95ad-ff6055780805
+4d27ee86-9714-4eba-9e04-320d028cefda;Georgeta Marin;Colegiul National "George Cosbuc";fcff2444-75f2-4768-95ad-ff6055780805
+744eebb1-9e20-42fa-83fd-6702d479dede;Ovidiu Adela;Colegiul National "George Cosbuc";fcff2444-75f2-4768-95ad-ff6055780805
+a562339b-2c14-4099-9a39-462a499b1fed;David Ionel;Colegiul National "George Cosbuc";fcff2444-75f2-4768-95ad-ff6055780805
+83c8db85-0264-45f4-8a5f-05b5d21c9046;Marius Sara;Colegiul National "George Cosbuc";fcff2444-75f2-4768-95ad-ff6055780805
+e3b7ec7a-c0cf-4378-b1a9-a2de5022bb41;Antonia Rodica;Colegiul National "George Cosbuc";fcff2444-75f2-4768-95ad-ff6055780805
+8cb66af5-8de5-4adb-a3c8-60707c8099a5;Martin Cornel;Colegiul National "George Cosbuc";fcff2444-75f2-4768-95ad-ff6055780805
+7714bfbf-5afb-4840-8b6e-3e282a6956b9;Nicusor Sofia;Colegiul National "George Cosbuc";fcff2444-75f2-4768-95ad-ff6055780805
+36ea363c-fbe7-4587-9571-2e371a0e52c9;Damian Ladislau;Colegiul National "George Cosbuc";fcff2444-75f2-4768-95ad-ff6055780805
+491dd43c-5633-445c-9569-d7b9bc9ce73a;Cristiana Loredana;Colegiul National "George Cosbuc";fcff2444-75f2-4768-95ad-ff6055780805
+87f9d0dc-3645-4a74-9c8b-673d106a4e2d;Ionela Antoniu;Colegiul National "George Cosbuc";fcff2444-75f2-4768-95ad-ff6055780805
+14e8f701-e704-45c2-b749-f79692694200;Manuel Anastasie;Colegiul National "George Cosbuc";fcff2444-75f2-4768-95ad-ff6055780805
+78afdb53-29cc-4339-b94d-5ad961debcac;Iulian Maria;Scoala Gimnaziala "Ion Agarbiceanu";6bbf685b-1f8a-4f16-a965-8531a80a301e
+e4863a94-c2ba-4341-ba89-42757afd425d;Fabian Vasilica;Scoala Gimnaziala "Ion Agarbiceanu";6bbf685b-1f8a-4f16-a965-8531a80a301e
+eb7e4c72-e564-4a4a-9de5-f2c9a8ccfb63;Doina Lucia;Scoala Gimnaziala "Ion Agarbiceanu";6bbf685b-1f8a-4f16-a965-8531a80a301e
+218b7845-8592-4cdf-8fa0-1db9a4f173d8;Carol Vasilica;Scoala Gimnaziala "Ion Agarbiceanu";6bbf685b-1f8a-4f16-a965-8531a80a301e
+fda118ad-b245-4355-8969-c54aab92498a;Larisa Isabella;Scoala Gimnaziala "Ion Agarbiceanu";6bbf685b-1f8a-4f16-a965-8531a80a301e
+37ec4c82-6347-4f2a-abbc-6d98d0e948e5;Gabi Eusebiu;Scoala Gimnaziala "Ion Agarbiceanu";6bbf685b-1f8a-4f16-a965-8531a80a301e
+522d3f3e-892b-4414-8e62-b81f537cc00b;Angela Lucian;Scoala Gimnaziala "Ion Agarbiceanu";6bbf685b-1f8a-4f16-a965-8531a80a301e
+2b50424f-5af6-4e8e-aa19-a8b3ada42b4f;Cezara Pompiliu;Scoala Gimnaziala "Ion Agarbiceanu";6bbf685b-1f8a-4f16-a965-8531a80a301e
+897e3352-1912-41a1-b4a8-9a377e27ceb4;Decebal Livia;Scoala Gimnaziala "Ion Agarbiceanu";6bbf685b-1f8a-4f16-a965-8531a80a301e
+9c36394f-a476-4b76-8651-d26d5f045ce8;Alin Ligia;Scoala Gimnaziala "Ion Agarbiceanu";6bbf685b-1f8a-4f16-a965-8531a80a301e
+03dc35b1-7fac-4c15-aaad-aefc897adb69;Aurica Luca;Scoala Gimnaziala "Ion Agarbiceanu";6bbf685b-1f8a-4f16-a965-8531a80a301e
+e8de2a52-e2fb-4cf5-969a-9b95735a147d;Ciprian Catalin;Scoala Gimnaziala "Ion Agarbiceanu";6bbf685b-1f8a-4f16-a965-8531a80a301e
+125e6493-6374-4f27-a0c2-e59f14abc9e1;Gavrila Cosmina;Scoala Gimnaziala "Ion Agarbiceanu";6bbf685b-1f8a-4f16-a965-8531a80a301e
+dbb1b899-c5f4-4d15-9618-2a3bc0d7da16;Virginia Maricica;Scoala Gimnaziala "Ion Agarbiceanu";6bbf685b-1f8a-4f16-a965-8531a80a301e
+a23733a8-41ee-4892-9264-6acb75ca90e8;Silvia Carmen;Scoala Gimnaziala "Ion Agarbiceanu";6bbf685b-1f8a-4f16-a965-8531a80a301e
+ba5d64dc-e7d3-435e-897d-87450c201f41;Fabian Aurica;Liceul Teoretic "Avram Iancu";d2f883ad-084e-494e-a5b2-b27ff1213057
+fead7528-3c6b-4315-a739-9b57109dd9b9;Narcisa Cecilia;Liceul Teoretic "Avram Iancu";d2f883ad-084e-494e-a5b2-b27ff1213057
+684e64b4-318b-4066-8578-d35c065aae55;Stefan Cristina;Liceul Teoretic "Avram Iancu";d2f883ad-084e-494e-a5b2-b27ff1213057
+1a50b42c-b1c5-4045-a7ae-a10b49cb8956;Vasilica Alin;Liceul Teoretic "Avram Iancu";d2f883ad-084e-494e-a5b2-b27ff1213057
+f97f8235-d214-44dc-9336-441055a83840;Tiberiu Costache;Liceul Teoretic "Avram Iancu";d2f883ad-084e-494e-a5b2-b27ff1213057
+0ef696f4-3174-4177-bd18-d89547ebf4d5;Liviu Mihaita;Liceul Teoretic "Avram Iancu";d2f883ad-084e-494e-a5b2-b27ff1213057
+44154c9d-3da3-45b2-ae27-5fb5bb5259b2;Larisa Florina;Liceul Teoretic "Avram Iancu";d2f883ad-084e-494e-a5b2-b27ff1213057
+daa8b50e-1c5b-4193-a592-762a3b2f2012;Nicusor Lucian;Liceul Teoretic "Avram Iancu";d2f883ad-084e-494e-a5b2-b27ff1213057
+a5371bea-2ae3-405e-90ee-1b67d30bccd8;Adelina Florentin;Liceul Teoretic "Avram Iancu";d2f883ad-084e-494e-a5b2-b27ff1213057
+b6703106-e81e-4a9e-ba5b-286953bf39b9;Timotei Adela;Liceul Teoretic "Avram Iancu";d2f883ad-084e-494e-a5b2-b27ff1213057
+4fe9f88f-87e5-4910-804f-e9107c5fed22;Horia Ionu;Liceul Teoretic "Avram Iancu";d2f883ad-084e-494e-a5b2-b27ff1213057
+071a15e6-aea2-4a39-b88f-d654ade67b7f;Marius Stefania;Liceul Teoretic "Avram Iancu";d2f883ad-084e-494e-a5b2-b27ff1213057
+7c6ca714-f347-4440-8c52-62480d0c8350;Daniela Simion;Liceul Teoretic "Avram Iancu";d2f883ad-084e-494e-a5b2-b27ff1213057
+c015a77a-8743-41c6-a158-51e134e03559;Marius Adela;Liceul Teoretic "Avram Iancu";d2f883ad-084e-494e-a5b2-b27ff1213057
+5c88f5d3-418a-4b85-a7c9-bffa04575a3c;Dorina Alin;Liceul Teoretic "Avram Iancu";d2f883ad-084e-494e-a5b2-b27ff1213057
+f30c4655-94a4-405e-a08d-92e40e94ed92;Paula Sergiu;Scoala Gimnaziala "Constantin Brancusi";8da92ff1-bc0f-4a5a-8c54-a186b19bdec1
+1c2de4f1-68a1-43fa-bf1a-acb2414899da;Dana Sabina;Scoala Gimnaziala "Constantin Brancusi";8da92ff1-bc0f-4a5a-8c54-a186b19bdec1
+9bd457bf-5d52-41dc-8994-7ef988290009;Serghei Constanța;Scoala Gimnaziala "Constantin Brancusi";8da92ff1-bc0f-4a5a-8c54-a186b19bdec1
+1530ea6f-1cb5-41cf-93e6-f233041e57cc;Petrut Steliana;Scoala Gimnaziala "Constantin Brancusi";8da92ff1-bc0f-4a5a-8c54-a186b19bdec1
+88f12445-ade2-433a-aebe-0a21a5de1668;Estera Anisoara;Scoala Gimnaziala "Constantin Brancusi";8da92ff1-bc0f-4a5a-8c54-a186b19bdec1
+daaaa5a2-776a-4d13-9619-9b387d8a0341;Victoria Renata;Scoala Gimnaziala "Constantin Brancusi";8da92ff1-bc0f-4a5a-8c54-a186b19bdec1
+7733207c-31ea-4408-aff7-6c07258a83bb;Flaviu Tereza;Scoala Gimnaziala "Constantin Brancusi";8da92ff1-bc0f-4a5a-8c54-a186b19bdec1
+7be5bdff-23af-4b53-a5ff-7cd0236e4c58;Raluca Ilie;Scoala Gimnaziala "Constantin Brancusi";8da92ff1-bc0f-4a5a-8c54-a186b19bdec1
+ffd24285-a155-497b-98e4-7a694a037b24;Mircea Ivan;Scoala Gimnaziala "Constantin Brancusi";8da92ff1-bc0f-4a5a-8c54-a186b19bdec1
+fa66c996-bec1-4346-a02f-ef77eb4bd634;Horea Gabriela;Scoala Gimnaziala "Constantin Brancusi";8da92ff1-bc0f-4a5a-8c54-a186b19bdec1
+121cb326-fb55-4ce9-abdd-08293e4be08f;Nicolae Horea;Scoala Gimnaziala "Constantin Brancusi";8da92ff1-bc0f-4a5a-8c54-a186b19bdec1
+dd58e8aa-c884-40af-bb78-89e8522ec849;Vlad Lucia;Scoala Gimnaziala "Constantin Brancusi";8da92ff1-bc0f-4a5a-8c54-a186b19bdec1
+0a53efd2-ee0e-4199-815d-09634cc431b6;Ghita Adelina;Scoala Gimnaziala "Constantin Brancusi";8da92ff1-bc0f-4a5a-8c54-a186b19bdec1
+3f1dc95c-7157-404b-8d35-6c83ad191275;Dan Pompiliu;Scoala Gimnaziala "Constantin Brancusi";8da92ff1-bc0f-4a5a-8c54-a186b19bdec1
+815436eb-8904-4efc-b754-63805f3a2616;Vasilica Demetra;Scoala Gimnaziala "Constantin Brancusi";8da92ff1-bc0f-4a5a-8c54-a186b19bdec1
+187a9e3d-aced-43fe-9fe5-fee7822b5604;Angela Simon;Liceul Teoretic "Onisifor Ghibu";3c21f106-e05d-4587-94f9-6e7dec076290
+3009bbaa-ee23-4888-b1dd-97005687257b;Alexandrina Magda;Liceul Teoretic "Onisifor Ghibu";3c21f106-e05d-4587-94f9-6e7dec076290
+b27c1bd9-237f-454e-aa6e-c3720fb10e11;Dan Renata;Liceul Teoretic "Onisifor Ghibu";3c21f106-e05d-4587-94f9-6e7dec076290
+738549fa-bcbf-406b-a9ca-032a5b6eb17e;Mirela Adelina;Liceul Teoretic "Onisifor Ghibu";3c21f106-e05d-4587-94f9-6e7dec076290
+2b81c35e-83e1-4907-a76e-09f60b4b3506;Andrei Leonard;Liceul Teoretic "Onisifor Ghibu";3c21f106-e05d-4587-94f9-6e7dec076290
+be164bbf-6a4a-483d-b642-8bb487f32e8e;Anastasie Ghenadie;Liceul Teoretic "Onisifor Ghibu";3c21f106-e05d-4587-94f9-6e7dec076290
+2131b784-0895-43f4-a59d-d23743eadad5;Danut Apostol;Liceul Teoretic "Onisifor Ghibu";3c21f106-e05d-4587-94f9-6e7dec076290
+dc2ebc23-9e60-4d10-ba42-5ab25c6c0ba3;Catrinel Lenuța;Liceul Teoretic "Onisifor Ghibu";3c21f106-e05d-4587-94f9-6e7dec076290
+f5d7cf86-0820-4b53-89e5-01cd1b41fb22;Costel Grigore;Liceul Teoretic "Onisifor Ghibu";3c21f106-e05d-4587-94f9-6e7dec076290
+8020e62e-39f0-4f4b-91f1-042739d8fb2d;Timotei Felix;Liceul Teoretic "Onisifor Ghibu";3c21f106-e05d-4587-94f9-6e7dec076290
+688eaaf3-ece0-4c7f-9f9a-6943b2e3db2f;Theodor Alina;Liceul Teoretic "Onisifor Ghibu";3c21f106-e05d-4587-94f9-6e7dec076290
+eee4d156-d8c2-4ccd-b5e3-1e18b36761b7;Magdalena Augustin;Liceul Teoretic "Onisifor Ghibu";3c21f106-e05d-4587-94f9-6e7dec076290
+868bd804-1f34-45e4-8e8d-3be10b029906;Razvan Beatrice;Liceul Teoretic "Onisifor Ghibu";3c21f106-e05d-4587-94f9-6e7dec076290
+342d3d42-3db0-4530-83e7-dd9bdb05f2f4;Constanta Sabina;Liceul Teoretic "Onisifor Ghibu";3c21f106-e05d-4587-94f9-6e7dec076290
+027977b1-e6c8-448b-b960-37f1cdee8b63;Veronica Vlad;Liceul Teoretic "Onisifor Ghibu";3c21f106-e05d-4587-94f9-6e7dec076290
+7edf780f-d9f3-4c47-9845-3d0ddb7e38dc;Iuliana Costel;Liceul Teoretic "Onisifor Ghibu";4a3cf462-b877-4b42-9086-4855d58fb606
+302fd269-cbaf-4300-854a-3654a7fc7f36;Marilena Denis;Liceul Teoretic "Onisifor Ghibu";4a3cf462-b877-4b42-9086-4855d58fb606
+c12334fb-3cc9-4a6c-a72e-1c58f56e6225;Petru Floriana;Liceul Teoretic "Onisifor Ghibu";4a3cf462-b877-4b42-9086-4855d58fb606
+0c2cf57d-968a-492e-87c4-ec531a64ae75;Alex Irina;Liceul Teoretic "Onisifor Ghibu";4a3cf462-b877-4b42-9086-4855d58fb606
+e3bd416c-1067-496f-b6ba-0eea2e560126;Veronica Cristian;Liceul Teoretic "Onisifor Ghibu";4a3cf462-b877-4b42-9086-4855d58fb606
+1adc07bf-4bac-4df8-af96-bccc50d18cba;Cristina Ieronim;Liceul Teoretic "Onisifor Ghibu";4a3cf462-b877-4b42-9086-4855d58fb606
+fcb2ca61-33a1-4cc0-a532-01730f84c7fe;Petrica Ladislau;Liceul Teoretic "Onisifor Ghibu";4a3cf462-b877-4b42-9086-4855d58fb606
+a84eb702-c2ca-4036-a6a3-26b97d7197ee;Ladislau Decebal;Liceul Teoretic "Onisifor Ghibu";4a3cf462-b877-4b42-9086-4855d58fb606
+36e7d5b6-883d-49dc-9542-03f299d517a1;Alexandru Roxana;Liceul Teoretic "Onisifor Ghibu";4a3cf462-b877-4b42-9086-4855d58fb606
+c1a6ee59-a093-40a8-89d3-cafb40860152;Paul Viorel;Liceul Teoretic "Onisifor Ghibu";4a3cf462-b877-4b42-9086-4855d58fb606
+6b8e8774-80d0-4f89-bae8-487fdc3d9468;Catalina Andra;Liceul Teoretic "Onisifor Ghibu";4a3cf462-b877-4b42-9086-4855d58fb606
+32dec0b1-cf30-45ad-9697-48e2b5425937;Lucia Marina;Liceul Teoretic "Onisifor Ghibu";4a3cf462-b877-4b42-9086-4855d58fb606
+8ec6aa0f-b71d-40c4-9a0a-31b8aec087b1;Georgeta Anton;Liceul Teoretic "Onisifor Ghibu";4a3cf462-b877-4b42-9086-4855d58fb606
+a6137519-d019-48d8-8e0d-5cbf674430a8;Sanda Sara;Liceul Teoretic "Onisifor Ghibu";4a3cf462-b877-4b42-9086-4855d58fb606
+a0611bcb-7150-4b9a-b2c9-4d130aa53eb7;Rozalia Razvan;Liceul Teoretic "Onisifor Ghibu";4a3cf462-b877-4b42-9086-4855d58fb606
+262d1b0e-2cc6-49d6-ae9f-0306f38f78ad;Violeta Cezara;Liceul cu Program Sportiv Cluj-Napoca;327541bd-fc58-4b14-971b-15c6bb142d30
+a89fed63-bca3-405c-a3d8-2e5cd7adf81e;Constantina Horatiu;Liceul cu Program Sportiv Cluj-Napoca;327541bd-fc58-4b14-971b-15c6bb142d30
+83a0ecbe-63e1-4c35-912e-cabbb08cced6;Aurelia Melania;Liceul cu Program Sportiv Cluj-Napoca;327541bd-fc58-4b14-971b-15c6bb142d30
+8c0f1d59-c8af-400f-8290-7c8fbeb401a8;Ramona Teodor;Liceul cu Program Sportiv Cluj-Napoca;327541bd-fc58-4b14-971b-15c6bb142d30
+ba45d4e9-9593-4fc0-a046-2b992cf44427;Stefana Damian;Liceul cu Program Sportiv Cluj-Napoca;327541bd-fc58-4b14-971b-15c6bb142d30
+a35189f5-bd61-488f-a829-0ea7aedf2543;Camelia Georgiana;Liceul cu Program Sportiv Cluj-Napoca;327541bd-fc58-4b14-971b-15c6bb142d30
+2a05a611-563c-4e45-9222-0da97f97da13;Isabela Ion;Liceul cu Program Sportiv Cluj-Napoca;327541bd-fc58-4b14-971b-15c6bb142d30
+7ff81a13-7ca6-45b1-808e-84cedd8849ca;Cornel Elisabeta;Liceul cu Program Sportiv Cluj-Napoca;327541bd-fc58-4b14-971b-15c6bb142d30
+6b38d7a9-f867-4764-83af-1bf013be7c46;Georgiana Razvan;Liceul cu Program Sportiv Cluj-Napoca;327541bd-fc58-4b14-971b-15c6bb142d30
+66780369-0315-42c6-a682-3c4416c49d76;Rares Darius;Liceul cu Program Sportiv Cluj-Napoca;327541bd-fc58-4b14-971b-15c6bb142d30
+d45f1c84-2e5e-4909-9f41-5eec8759e019;Emil Carol;Liceul cu Program Sportiv Cluj-Napoca;327541bd-fc58-4b14-971b-15c6bb142d30
+3c62732c-87c8-444a-90d6-6bfd011e46a9;Petrica Violeta;Liceul cu Program Sportiv Cluj-Napoca;327541bd-fc58-4b14-971b-15c6bb142d30
+0f54f1de-6e73-4ad9-a6e3-9798fc6ebced;Ancuta Iolanda;Liceul cu Program Sportiv Cluj-Napoca;327541bd-fc58-4b14-971b-15c6bb142d30
+716040c1-ed4d-47f9-b097-a6a38910390c;Ionela Mihaela;Liceul cu Program Sportiv Cluj-Napoca;327541bd-fc58-4b14-971b-15c6bb142d30
+b6adf2f0-2279-4c33-8a37-4a9950af1381;Aurica Georgiana;Liceul cu Program Sportiv Cluj-Napoca;327541bd-fc58-4b14-971b-15c6bb142d30
+8f71c6d9-5bd2-4e45-b2e4-1f895feb109d;Magdalena Adriana;Liceul Teoretic "Nicolae Balcescu";fb91f623-274b-4185-991b-f70bf450711d
+b569cc6d-f947-40ea-aac9-65a997bf6328;Costache Camelia;Liceul Teoretic "Nicolae Balcescu";fb91f623-274b-4185-991b-f70bf450711d
+a9ada74a-1f65-4d05-a880-b671756a1e22;Delia Florian;Liceul Teoretic "Nicolae Balcescu";fb91f623-274b-4185-991b-f70bf450711d
+43f776d1-14f1-4b1c-a90f-0b40d766c572;Catrinel Eugen;Liceul Teoretic "Nicolae Balcescu";fb91f623-274b-4185-991b-f70bf450711d
+559251d7-972e-4b7c-882c-8e2c7611c265;Alexandru Rafael;Liceul Teoretic "Nicolae Balcescu";fb91f623-274b-4185-991b-f70bf450711d
+7d938d8d-0a3d-4793-9e8a-b655b799f519;Dragos Eusebiu;Liceul Teoretic "Nicolae Balcescu";fb91f623-274b-4185-991b-f70bf450711d
+82d5cdee-a60a-4d42-96ca-aac3177523a3;Eduard Lenuta;Liceul Teoretic "Nicolae Balcescu";fb91f623-274b-4185-991b-f70bf450711d
+b7c463ed-824e-4b5f-b3a4-21fbb0200934;Livia Alin;Liceul Teoretic "Nicolae Balcescu";fb91f623-274b-4185-991b-f70bf450711d
+d69151b1-4996-4384-a7f5-dbc2c9be9fa8;Bianca Rafael;Liceul Teoretic "Nicolae Balcescu";fb91f623-274b-4185-991b-f70bf450711d
+d305c350-c780-46f8-85e1-5a70448a06c8;Veronica Floriana;Liceul Teoretic "Nicolae Balcescu";fb91f623-274b-4185-991b-f70bf450711d
+c2d6e032-0cbd-46e1-a063-35ada73671d8;Diana Lazar;Liceul Teoretic "Nicolae Balcescu";fb91f623-274b-4185-991b-f70bf450711d
+651af8ba-5eb0-47c1-80e1-c75a69a6cfdc;Gavrila Angelica;Liceul Teoretic "Nicolae Balcescu";fb91f623-274b-4185-991b-f70bf450711d
+2d047673-1940-463c-a406-37c1d0f85383;Oana Aurelia;Liceul Teoretic "Nicolae Balcescu";fb91f623-274b-4185-991b-f70bf450711d
+b9d45854-8fb7-4724-b92d-f92d2317120b;Timotei Cornel;Liceul Teoretic "Nicolae Balcescu";fb91f623-274b-4185-991b-f70bf450711d
+40b19347-6755-4865-a49a-a89181dda76e;Marcel Eugen;Liceul Teoretic "Nicolae Balcescu";fb91f623-274b-4185-991b-f70bf450711d
+d6c6a58d-e7b4-432b-be38-002fbad2f58c;Albert Leonard;Liceul Teoretic "Gheorghe Sincai";a6fe0507-51c3-47cc-87cb-e9c72956615f
+3b74507f-a058-4f45-b471-d5f361ca636d;Eusebiu Sabina;Liceul Teoretic "Gheorghe Sincai";a6fe0507-51c3-47cc-87cb-e9c72956615f
+cee9cdad-207d-443e-9af0-3949c603f671;Beniamin Daniel;Liceul Teoretic "Gheorghe Sincai";a6fe0507-51c3-47cc-87cb-e9c72956615f
+4ec2c355-d8bf-4969-8fd9-00faef274761;Dionisie Aurică;Liceul Teoretic "Gheorghe Sincai";a6fe0507-51c3-47cc-87cb-e9c72956615f
+fd819624-92f8-4dde-8e91-9d1ae336c67c;Veronica Constanta;Liceul Teoretic "Gheorghe Sincai";a6fe0507-51c3-47cc-87cb-e9c72956615f
+e66f78c8-9128-43ad-b1ba-e625f5494d62;Raul Codrut;Liceul Teoretic "Gheorghe Sincai";a6fe0507-51c3-47cc-87cb-e9c72956615f
+93eec5fe-a6ef-4e55-916b-60da48633bb7;Cristiana Natalia;Liceul Teoretic "Gheorghe Sincai";a6fe0507-51c3-47cc-87cb-e9c72956615f
+8d02e67c-bfa3-4ee5-a3b7-f72829a1ec4b;Petru Petre;Liceul Teoretic "Gheorghe Sincai";a6fe0507-51c3-47cc-87cb-e9c72956615f
+88cfffa3-60fa-4a81-9d0b-4e0a9e4cb888;Marcel Horia;Liceul Teoretic "Gheorghe Sincai";a6fe0507-51c3-47cc-87cb-e9c72956615f
+6602c9de-06ad-4474-b01e-f3d414b7744b;Monica Iolanda;Liceul Teoretic "Gheorghe Sincai";a6fe0507-51c3-47cc-87cb-e9c72956615f
+020fe2a1-6309-4f11-9296-36de39852a58;Dumitru Dorian;Liceul Teoretic "Gheorghe Sincai";a6fe0507-51c3-47cc-87cb-e9c72956615f
+65d31d84-67c2-4184-a67e-40ed29060461;Petre Paul;Liceul Teoretic "Gheorghe Sincai";a6fe0507-51c3-47cc-87cb-e9c72956615f
+25a64fb2-ca00-4cba-883b-1a7e9c133033;Matei Mihail;Liceul Teoretic "Gheorghe Sincai";a6fe0507-51c3-47cc-87cb-e9c72956615f
+7c2f73a1-779b-4c07-b778-46c7edcd2066;Cristi Delia;Liceul Teoretic "Gheorghe Sincai";a6fe0507-51c3-47cc-87cb-e9c72956615f
+8c101981-18c9-4986-a4cc-6575c102d0d1;Doru Fabian;Liceul Teoretic "Gheorghe Sincai";a6fe0507-51c3-47cc-87cb-e9c72956615f
+594b9b2b-446e-4bc5-9369-12dab2bb3721;Manuela Florentin;Scoala "Nicolae Titulescu";adb6e71d-1fb9-49bb-9b96-eee1e0ba339e
+76d52e54-9f2a-4d30-aadb-193b9bf0ea8e;Daniela Livia;Scoala "Nicolae Titulescu";adb6e71d-1fb9-49bb-9b96-eee1e0ba339e
+add72b04-6606-4d3e-856a-d54b3cc36c42;Doru Dorian;Scoala "Nicolae Titulescu";adb6e71d-1fb9-49bb-9b96-eee1e0ba339e
+301035c7-e841-4f6f-b100-3c8f8774f0ec;Emanuel Angelica;Scoala "Nicolae Titulescu";adb6e71d-1fb9-49bb-9b96-eee1e0ba339e
+8410b34d-c294-440e-bfe2-9d2b5f7bd0d7;Nicoleta David;Scoala "Nicolae Titulescu";adb6e71d-1fb9-49bb-9b96-eee1e0ba339e
+8f50fd28-fd93-40f9-b377-4ed767621f31;Nicolae Gabriela;Scoala "Nicolae Titulescu";adb6e71d-1fb9-49bb-9b96-eee1e0ba339e
+95edd63f-d324-4359-9ee6-a9e215e8ec16;Adina Demetra;Scoala "Nicolae Titulescu";adb6e71d-1fb9-49bb-9b96-eee1e0ba339e
+cd405b03-dd60-4888-9585-6d0cdb320994;Radu Manuela;Scoala "Nicolae Titulescu";adb6e71d-1fb9-49bb-9b96-eee1e0ba339e
+e2777831-a0fd-4a09-a9a4-8d17c92d3ed5;Angelica Romulus;Scoala "Nicolae Titulescu";adb6e71d-1fb9-49bb-9b96-eee1e0ba339e
+f56bb70c-d370-412e-acb1-c780059a11c9;Ileana Augustin;Scoala "Nicolae Titulescu";adb6e71d-1fb9-49bb-9b96-eee1e0ba339e
+78611a31-25d9-44cf-b2dc-c61bf9d58887;Marcel Vasile;Scoala "Nicolae Titulescu";adb6e71d-1fb9-49bb-9b96-eee1e0ba339e
+129fd9ae-0d26-4e17-a188-1198672fe567;Marinela Ioan;Scoala "Nicolae Titulescu";adb6e71d-1fb9-49bb-9b96-eee1e0ba339e
+828be77b-c114-49b6-8986-07e3c09f4165;Antoniu Octavian;Scoala "Nicolae Titulescu";adb6e71d-1fb9-49bb-9b96-eee1e0ba339e
+07753de0-fad5-447d-9118-9efde3c0691e;Margareta Danut;Scoala "Nicolae Titulescu";adb6e71d-1fb9-49bb-9b96-eee1e0ba339e
+a78c53a8-f39a-437e-b084-f804d2992379;Cristina Dumitru;Scoala "Nicolae Titulescu";adb6e71d-1fb9-49bb-9b96-eee1e0ba339e
+3f426702-86de-4320-af11-663f19d01e04;Cornel Darius;Scoala Gimnaziala "Liviu Rebreanu";2b3c0675-a236-499e-86d9-d81a567b9f12
+8b1fd64b-965b-483a-9222-590566a9eec9;Valerian Flavius;Scoala Gimnaziala "Liviu Rebreanu";2b3c0675-a236-499e-86d9-d81a567b9f12
+2ed93cde-c531-4b91-8d06-915ee8defb74;Costică Veronica;Scoala Gimnaziala "Liviu Rebreanu";2b3c0675-a236-499e-86d9-d81a567b9f12
+92d5353f-9ffc-4006-b7c5-5ce80ac0c860;Simona Mihail;Scoala Gimnaziala "Liviu Rebreanu";2b3c0675-a236-499e-86d9-d81a567b9f12
+55c094b0-c4a0-4427-86e7-34e13c6ae7c2;Sorina Ionut;Scoala Gimnaziala "Liviu Rebreanu";2b3c0675-a236-499e-86d9-d81a567b9f12
+799c8336-ecc0-4b26-b5da-da7194eba528;Viorica Simion;Scoala Gimnaziala "Liviu Rebreanu";2b3c0675-a236-499e-86d9-d81a567b9f12
+cda66f43-8195-4218-b300-ba0b4d6e2fb7;Constanta Estera;Scoala Gimnaziala "Liviu Rebreanu";2b3c0675-a236-499e-86d9-d81a567b9f12
+62f12571-a993-4aeb-837f-7f44076dc3ae;Miron Virgiliu;Scoala Gimnaziala "Liviu Rebreanu";2b3c0675-a236-499e-86d9-d81a567b9f12
+8cb3a03e-3390-4cf8-b6ae-031ca28942a8;Crina Miron;Scoala Gimnaziala "Liviu Rebreanu";2b3c0675-a236-499e-86d9-d81a567b9f12
+653f38a6-7292-4115-b682-f17e9d917628;Bogdana Iosif;Scoala Gimnaziala "Liviu Rebreanu";2b3c0675-a236-499e-86d9-d81a567b9f12
+f609b19e-a598-45ce-8b59-d4c0dceccef8;Cristina Florentina;Scoala Gimnaziala "Liviu Rebreanu";2b3c0675-a236-499e-86d9-d81a567b9f12
+8f4df1ac-c912-4e6d-b8fd-a41a984f1ca8;Floriana Angelica;Scoala Gimnaziala "Liviu Rebreanu";2b3c0675-a236-499e-86d9-d81a567b9f12
+817eaa34-a2ac-4aba-be00-3cd168f56be7;Stelian Vasilica;Scoala Gimnaziala "Liviu Rebreanu";2b3c0675-a236-499e-86d9-d81a567b9f12
+5f9060be-3640-42a1-a056-28287d6a6e45;Alina Cezar;Scoala Gimnaziala "Liviu Rebreanu";2b3c0675-a236-499e-86d9-d81a567b9f12
+30ff5700-e328-4828-8937-406a4a79e680;Georgiana Sara;Scoala Gimnaziala "Liviu Rebreanu";2b3c0675-a236-499e-86d9-d81a567b9f12
+92046013-bda8-49e3-bf02-cee6b90466a7;Catrinel Cezar;Scoala Gimnaziala "Iuliu Hatieganu";aaa2c5df-dc55-425e-b02f-8782113e4df9
+251e71e1-4aeb-4a98-ad58-cf444c9bc0ac;Cosmin Mircea;Scoala Gimnaziala "Iuliu Hatieganu";aaa2c5df-dc55-425e-b02f-8782113e4df9
+14f66f0b-6f2e-47f3-a25d-47ce7cd8a964;Otilia Albert;Scoala Gimnaziala "Iuliu Hatieganu";aaa2c5df-dc55-425e-b02f-8782113e4df9
+ca33db94-926b-45d5-91ae-1d31f31e24e3;Steliana Anca;Scoala Gimnaziala "Iuliu Hatieganu";aaa2c5df-dc55-425e-b02f-8782113e4df9
+d2f98825-f341-4be4-b355-dc3a045892db;Stefan Carmen;Scoala Gimnaziala "Iuliu Hatieganu";aaa2c5df-dc55-425e-b02f-8782113e4df9
+bd8d8499-298a-4512-8371-935fd0b26b76;Floriana Iuliana;Scoala Gimnaziala "Iuliu Hatieganu";aaa2c5df-dc55-425e-b02f-8782113e4df9
+e25be15a-aa0b-4929-8b06-bf730fc035cb;Albert Iacob;Scoala Gimnaziala "Iuliu Hatieganu";aaa2c5df-dc55-425e-b02f-8782113e4df9
+ee728e1b-fa39-4d9d-8927-3091ec55e622;Simon Otilia;Scoala Gimnaziala "Iuliu Hatieganu";aaa2c5df-dc55-425e-b02f-8782113e4df9
+c476127d-fa11-4fbe-af48-02ae850cfa06;Cristi Diana;Scoala Gimnaziala "Iuliu Hatieganu";aaa2c5df-dc55-425e-b02f-8782113e4df9
+23aba57b-6c1c-4942-804b-649a44185843;Eva Ieronim;Scoala Gimnaziala "Iuliu Hatieganu";aaa2c5df-dc55-425e-b02f-8782113e4df9
+31be5ed2-87ec-409a-b078-d5afc3b7a00d;Angelica Nelu;Scoala Gimnaziala "Iuliu Hatieganu";aaa2c5df-dc55-425e-b02f-8782113e4df9
+ed7df2fa-3364-44a8-9e7d-595a68bac5ff;Noemi Serghei;Scoala Gimnaziala "Iuliu Hatieganu";aaa2c5df-dc55-425e-b02f-8782113e4df9
+1a14ccb6-2fe4-4593-94b6-1e0d715592ff;Valerian Nicoleta;Scoala Gimnaziala "Iuliu Hatieganu";aaa2c5df-dc55-425e-b02f-8782113e4df9
+25919ac4-f424-47b2-bcfe-d9bc05e24bf9;Magda Crina;Scoala Gimnaziala "Iuliu Hatieganu";aaa2c5df-dc55-425e-b02f-8782113e4df9
+b88d19ca-133f-43aa-96c9-9ae918cf073e;Paula Eusebiu;Scoala Gimnaziala "Iuliu Hatieganu";aaa2c5df-dc55-425e-b02f-8782113e4df9
+26dcd67a-c67b-4307-b923-13a13b119b1d;Daniela Mihaela;Liceul Teoretic "Bathory Istvan";d463ec8f-fa19-4bb1-8bb3-0b4f2e255352
+02e69b31-adc0-4374-8fea-9fc3941eacb4;Sandu Costica;Liceul Teoretic "Bathory Istvan";d463ec8f-fa19-4bb1-8bb3-0b4f2e255352
+c7f81b1c-944c-4070-9a9a-e7eb006d8e4b;Leonard Octavia;Liceul Teoretic "Bathory Istvan";d463ec8f-fa19-4bb1-8bb3-0b4f2e255352
+05ae30bf-ed53-4b82-9b55-ee38fcd75668;Octavian Marcel;Liceul Teoretic "Bathory Istvan";d463ec8f-fa19-4bb1-8bb3-0b4f2e255352
+9bb539fb-b9b5-48e6-b0fa-4ac2de213503;Elisabeta Adelina;Liceul Teoretic "Bathory Istvan";d463ec8f-fa19-4bb1-8bb3-0b4f2e255352
+d09b3de3-6305-4411-92c6-6b93e5e58313;Iulian Stan;Liceul Teoretic "Bathory Istvan";d463ec8f-fa19-4bb1-8bb3-0b4f2e255352
+27ea9f00-6715-4dbe-91be-f81db57456c0;Dana Denisa;Liceul Teoretic "Bathory Istvan";d463ec8f-fa19-4bb1-8bb3-0b4f2e255352
+d07c0eb9-1f60-4f81-a808-768ca12fa48a;Andrei Monica;Liceul Teoretic "Bathory Istvan";d463ec8f-fa19-4bb1-8bb3-0b4f2e255352
+9a08f85f-17d6-4cc5-b990-b3c05f9b29b5;Eva Mihail;Liceul Teoretic "Bathory Istvan";d463ec8f-fa19-4bb1-8bb3-0b4f2e255352
+65e4539d-38a2-497d-b020-debac3231aa0;Ligia Isabela;Liceul Teoretic "Bathory Istvan";d463ec8f-fa19-4bb1-8bb3-0b4f2e255352
+be5f29e8-a743-4e97-bf6e-f990b0241323;Carmen Georgiana;Liceul Teoretic "Bathory Istvan";d463ec8f-fa19-4bb1-8bb3-0b4f2e255352
+99a67a8a-2b48-4e78-86c1-8b72d5244398;Anisoara Cosmin;Liceul Teoretic "Bathory Istvan";d463ec8f-fa19-4bb1-8bb3-0b4f2e255352
+fc305caf-09c5-4984-b7ff-3d969324c689;Floriana Viorela;Liceul Teoretic "Bathory Istvan";d463ec8f-fa19-4bb1-8bb3-0b4f2e255352
+07f1d4a8-f9c0-4aa4-accb-9b288af6d885;Petru Stelian;Liceul Teoretic "Bathory Istvan";d463ec8f-fa19-4bb1-8bb3-0b4f2e255352
+e048f5e2-9ce6-4654-bbe2-77eb75254057;Adrian Cristi;Liceul Teoretic "Bathory Istvan";d463ec8f-fa19-4bb1-8bb3-0b4f2e255352
+28568bac-2075-4bbf-85b8-984e206ddcb6;Ghenadie Albert;Colegiul National "George Baritiu";06061fc9-0112-46bd-a5db-23e6035aec14
+2f36362b-09a1-4814-a74b-8ce484f4555a;Iuliu Anca;Colegiul National "George Baritiu";06061fc9-0112-46bd-a5db-23e6035aec14
+91b0000c-fd90-42ea-9e6f-a6ebc76faeaf;Vlad Daciana;Colegiul National "George Baritiu";06061fc9-0112-46bd-a5db-23e6035aec14
+9dff0dd1-7018-4f33-824e-baac6630ded6;Dezideriu Catrinel;Colegiul National "George Baritiu";06061fc9-0112-46bd-a5db-23e6035aec14
+a49aa740-fe49-4e77-9a03-ba8a2a3e82d5;Emilian Lucia;Colegiul National "George Baritiu";06061fc9-0112-46bd-a5db-23e6035aec14
+7e2d9f03-502a-4d71-86d0-306a8899a2ec;Valentin Aurica;Colegiul National "George Baritiu";06061fc9-0112-46bd-a5db-23e6035aec14
+078a8063-44ee-4510-85e0-5e4d2c98bf85;Sanda Renata;Colegiul National "George Baritiu";06061fc9-0112-46bd-a5db-23e6035aec14
+95526b69-698d-4a0b-8e16-36203fca151b;Eugenia Laurentiu;Colegiul National "George Baritiu";06061fc9-0112-46bd-a5db-23e6035aec14
+0ed39baa-46f8-4fbd-add6-14417e287f13;Sara Gabriel;Colegiul National "George Baritiu";06061fc9-0112-46bd-a5db-23e6035aec14
+7d4e9e71-09eb-4495-8bd7-c4f02192d36d;Serghei Bianca;Colegiul National "George Baritiu";06061fc9-0112-46bd-a5db-23e6035aec14
+8d8f0e1e-9364-4ed1-890d-df4c54be9e85;Paul Sofia;Colegiul National "George Baritiu";06061fc9-0112-46bd-a5db-23e6035aec14
+88474b48-821d-482a-a27d-318353555503;Claudiu Magda;Colegiul National "George Baritiu";06061fc9-0112-46bd-a5db-23e6035aec14
+de9dd0cb-0942-4574-9b7c-70cd6d99d852;Denisa Sabina;Colegiul National "George Baritiu";06061fc9-0112-46bd-a5db-23e6035aec14
+59ba5fdd-6f8c-4f32-aa74-c9b4f0446888;Valentina Monica;Colegiul National "George Baritiu";06061fc9-0112-46bd-a5db-23e6035aec14
+26924504-64b5-427f-913b-e2bc49ff7dcf;Demetra Luminita;Colegiul National "George Baritiu";06061fc9-0112-46bd-a5db-23e6035aec14
+25434ea6-5618-4b3c-940e-f5cd38fd4e54;Cosmina Dumitra;Liceul Teoretic "Apaczai Csere Janos";ef849fff-f3f3-499b-9238-c0f973217f2f
+ee88f269-de37-423a-954a-51a411aed764;Madalina Adelina;Liceul Teoretic "Apaczai Csere Janos";ef849fff-f3f3-499b-9238-c0f973217f2f
+aa6b0489-3769-4454-8c75-04f0a71f27f5;Catina Pompiliu;Liceul Teoretic "Apaczai Csere Janos";ef849fff-f3f3-499b-9238-c0f973217f2f
+37051d3f-b0ef-4541-8638-e92b49eac7cf;Viorica Traian;Liceul Teoretic "Apaczai Csere Janos";ef849fff-f3f3-499b-9238-c0f973217f2f
+63bb1105-4b6b-4ed3-a2db-7953954c1dc2;Teodora Catalin;Liceul Teoretic "Apaczai Csere Janos";ef849fff-f3f3-499b-9238-c0f973217f2f
+58c038c8-dd88-4883-a208-293ec511ece4;Sara Madalina;Liceul Teoretic "Apaczai Csere Janos";ef849fff-f3f3-499b-9238-c0f973217f2f
+f463401f-be77-43c4-af30-6958f89f7b63;Constanta Demetra;Liceul Teoretic "Apaczai Csere Janos";ef849fff-f3f3-499b-9238-c0f973217f2f
+477bd511-2f29-4cd3-b8ed-33cf913d51b7;Ileana Fabian;Liceul Teoretic "Apaczai Csere Janos";ef849fff-f3f3-499b-9238-c0f973217f2f
+08dd929a-0246-462d-bf3c-d21de07efa7a;Anisoara Vasilica;Liceul Teoretic "Apaczai Csere Janos";ef849fff-f3f3-499b-9238-c0f973217f2f
+b6a0bdaa-3253-4a5f-9b1e-9ecf513f5484;Ciprian Dorinel;Liceul Teoretic "Apaczai Csere Janos";ef849fff-f3f3-499b-9238-c0f973217f2f
+cbecffb8-70b2-4b05-9dbd-598ab03d107a;Luciana Damian;Liceul Teoretic "Apaczai Csere Janos";ef849fff-f3f3-499b-9238-c0f973217f2f
+5677dc01-0d74-4e19-89d5-9e4a194b9cf5;Simona Stelian;Liceul Teoretic "Apaczai Csere Janos";ef849fff-f3f3-499b-9238-c0f973217f2f
+d77c7413-b37a-4c50-9867-3dcd990e31e6;Viorela Ramona;Liceul Teoretic "Apaczai Csere Janos";ef849fff-f3f3-499b-9238-c0f973217f2f
+73d87d1b-4f92-4590-8446-d41fcb5468c0;Olimpia Dumitru;Liceul Teoretic "Apaczai Csere Janos";ef849fff-f3f3-499b-9238-c0f973217f2f
+0191e9db-93df-47cd-856c-0a2960915882;Andra Dragos;Liceul Teoretic "Apaczai Csere Janos";ef849fff-f3f3-499b-9238-c0f973217f2f
+8ea92a44-061c-4545-b7bf-91f3885febe0;Mihai Cezara;Seminarul Teologic Ortodox;62ebff59-2ff8-481a-9254-c01b3edd8a21
+a484f6e8-83a1-46ed-879c-a04f269d6a84;Mihaita Corneliu;Seminarul Teologic Ortodox;62ebff59-2ff8-481a-9254-c01b3edd8a21
+41460ebb-c30d-44a8-9607-11a040203bbc;Flavius Andreea;Seminarul Teologic Ortodox;62ebff59-2ff8-481a-9254-c01b3edd8a21
+a87b4216-70e9-4295-b3b0-ccbbf0a10c82;Tiberiu Aurelian;Seminarul Teologic Ortodox;62ebff59-2ff8-481a-9254-c01b3edd8a21
+15625799-33fa-4c94-8924-4df1254bc594;Larisa Nicusor;Seminarul Teologic Ortodox;62ebff59-2ff8-481a-9254-c01b3edd8a21
+9d2099e9-32e2-44a0-aa58-0011e0ef9727;David Catrinel;Seminarul Teologic Ortodox;62ebff59-2ff8-481a-9254-c01b3edd8a21
+8846d1e4-b097-404d-9449-2ccc30c52f3a;Sanda Ghenadie;Seminarul Teologic Ortodox;62ebff59-2ff8-481a-9254-c01b3edd8a21
+37433695-028f-4b66-8ed3-999a78643b01;Constanța Anghel;Seminarul Teologic Ortodox;62ebff59-2ff8-481a-9254-c01b3edd8a21
+c1e3db70-4e25-4017-8524-20cc687a317c;Marilena Andra;Seminarul Teologic Ortodox;62ebff59-2ff8-481a-9254-c01b3edd8a21
+0ea645a0-4e9e-4397-bc75-fbdd69e37e1d;Andrada Daciana;Seminarul Teologic Ortodox;62ebff59-2ff8-481a-9254-c01b3edd8a21
+d48b35b2-289a-40e0-980e-290c1bb1e894;Dorina Floriana;Seminarul Teologic Ortodox;62ebff59-2ff8-481a-9254-c01b3edd8a21
+4a5776e5-e82c-4067-9273-7ae78be901dc;Codrin Atanasie;Seminarul Teologic Ortodox;62ebff59-2ff8-481a-9254-c01b3edd8a21
+45958184-6c52-4dc6-be40-d6dabbc9fb9c;Ligia Dorian;Seminarul Teologic Ortodox;62ebff59-2ff8-481a-9254-c01b3edd8a21
+ad832484-f235-4329-a9a8-51653e8aa041;Sabina Sandra;Seminarul Teologic Ortodox;62ebff59-2ff8-481a-9254-c01b3edd8a21
+2890a52c-ba7a-41c6-aee7-a3c31b4ca976;Iosif Eliza;Seminarul Teologic Ortodox;62ebff59-2ff8-481a-9254-c01b3edd8a21
+ec27ee56-7e78-46c6-b612-6a9b91c6715d;Bogdan Ieronim;Liceul de Informatica "Tiberiu Popoviciu";d34c30e8-49c7-425e-9436-1cfee179bf6b
+3724b903-f48c-4c51-8d53-d23ede445deb;Diana Damian;Liceul de Informatica "Tiberiu Popoviciu";d34c30e8-49c7-425e-9436-1cfee179bf6b
+72291a9f-45ee-4a40-9de9-101bf4abcc28;Lucian Romulus;Liceul de Informatica "Tiberiu Popoviciu";d34c30e8-49c7-425e-9436-1cfee179bf6b
+a88c470b-8acd-4220-88e0-6649d33331d4;Mihail Toma;Liceul de Informatica "Tiberiu Popoviciu";d34c30e8-49c7-425e-9436-1cfee179bf6b
+b696b5ea-6b99-486c-958b-45232357a785;Madalina Catalina;Liceul de Informatica "Tiberiu Popoviciu";d34c30e8-49c7-425e-9436-1cfee179bf6b
+c1ba5646-3624-4233-87a0-998f6d15120f;Ciprian Dezideriu;Liceul de Informatica "Tiberiu Popoviciu";d34c30e8-49c7-425e-9436-1cfee179bf6b
+a740b475-a85a-4f56-9cfa-40f6a8100019;Horea Daniela;Liceul de Informatica "Tiberiu Popoviciu";d34c30e8-49c7-425e-9436-1cfee179bf6b
+db8d6f0b-7a16-4411-8eb4-78edba504550;Mihaită Adelina;Liceul de Informatica "Tiberiu Popoviciu";d34c30e8-49c7-425e-9436-1cfee179bf6b
+8c4e0d7e-aded-4eb0-94de-dbd0e09cdbe8;Dinu David;Liceul de Informatica "Tiberiu Popoviciu";d34c30e8-49c7-425e-9436-1cfee179bf6b
+5dea79fe-d973-446d-a23b-6d4d55d7821c;Fane Octavian;Liceul de Informatica "Tiberiu Popoviciu";d34c30e8-49c7-425e-9436-1cfee179bf6b
+1e4a8d4a-6eea-4075-a3fe-dbcc105cf119;Daniel Silvia;Liceul de Informatica "Tiberiu Popoviciu";d34c30e8-49c7-425e-9436-1cfee179bf6b
+30e94574-7935-4871-b639-485755b0cc31;Roxana Oana;Liceul de Informatica "Tiberiu Popoviciu";d34c30e8-49c7-425e-9436-1cfee179bf6b
+593386e6-c9a6-4327-9223-c2bc90416c65;Vali Iulian;Liceul de Informatica "Tiberiu Popoviciu";d34c30e8-49c7-425e-9436-1cfee179bf6b
+df4145b3-1c60-4088-8404-074e99e75644;Marcel Iuliu;Liceul de Informatica "Tiberiu Popoviciu";d34c30e8-49c7-425e-9436-1cfee179bf6b
+07d22a51-3bce-438c-b7ac-c8c7f5ced36b;Sorin Isac;Liceul de Informatica "Tiberiu Popoviciu";d34c30e8-49c7-425e-9436-1cfee179bf6b
+b19dc6fb-0890-4c12-914b-a5273e938ef3;Amalia Teodor;Scoala Gimnaziala "Alexandru Vaida – Voevod";46472dee-c467-4e18-a743-5a7f77804129
+094a0ebc-bce6-49f1-b5bd-383805be305f;Brândusa Daria;Scoala Gimnaziala "Alexandru Vaida – Voevod";46472dee-c467-4e18-a743-5a7f77804129
+2f2769aa-e68d-457c-9b43-c758107ee7fe;Daria Codruț;Scoala Gimnaziala "Alexandru Vaida – Voevod";46472dee-c467-4e18-a743-5a7f77804129
+448be8cf-e12f-43ec-a867-4c21026e63c1;Sara Doru;Scoala Gimnaziala "Alexandru Vaida – Voevod";46472dee-c467-4e18-a743-5a7f77804129
+d51aad17-7a79-41fc-bde8-8ea1c5ad87b8;Dorina Martin;Scoala Gimnaziala "Alexandru Vaida – Voevod";46472dee-c467-4e18-a743-5a7f77804129
+533fe550-6a3f-476e-a02b-69f4329b8fd6;Iosif Natalia;Scoala Gimnaziala "Alexandru Vaida – Voevod";46472dee-c467-4e18-a743-5a7f77804129
+a5be53d0-9598-4b27-a73b-6345fd95be45;Claudia Renata;Scoala Gimnaziala "Alexandru Vaida – Voevod";46472dee-c467-4e18-a743-5a7f77804129
+8d6b7865-3981-45e2-a1a0-d52bb315db82;Aurelia Simon;Scoala Gimnaziala "Alexandru Vaida – Voevod";46472dee-c467-4e18-a743-5a7f77804129
+ceb86558-8ed5-4c9e-beb7-563a3fec1ebd;Emilia Stefan;Scoala Gimnaziala "Alexandru Vaida – Voevod";46472dee-c467-4e18-a743-5a7f77804129
+eac41bb6-8dff-4995-84dd-7e26d25685bd;Claudiu Estera;Scoala Gimnaziala "Alexandru Vaida – Voevod";46472dee-c467-4e18-a743-5a7f77804129
+e729ac3f-3519-4880-98de-5ae01a9a5ecb;Mariana Robert;Scoala Gimnaziala "Alexandru Vaida – Voevod";46472dee-c467-4e18-a743-5a7f77804129
+d7e7cc43-32b0-4d28-9399-e455f87dc163;Teodora Vasilica;Scoala Gimnaziala "Alexandru Vaida – Voevod";46472dee-c467-4e18-a743-5a7f77804129
+164eb2ca-dd35-4f23-b6e1-0592ecff8e3f;Cosmin Rodica;Scoala Gimnaziala "Alexandru Vaida – Voevod";46472dee-c467-4e18-a743-5a7f77804129
+61438eae-0287-420a-9f46-9b020a9bc569;Crina Estera;Scoala Gimnaziala "Alexandru Vaida – Voevod";46472dee-c467-4e18-a743-5a7f77804129
+0c3a6bae-5b86-4ff9-910a-49145b234e61;Horatiu Ancuța;Scoala Gimnaziala "Alexandru Vaida – Voevod";46472dee-c467-4e18-a743-5a7f77804129
+f63526b0-21e4-483f-8b96-06bc32f92961;Iosif Ilinca;Liceul Teoretic ELF;2af7b987-7953-414c-8945-4f7baabd53cb
+39fdccf2-c06f-4044-8190-889a7d57cb5c;Isac Filimon;Liceul Teoretic ELF;2af7b987-7953-414c-8945-4f7baabd53cb
+16dc60d4-f94a-449f-9802-c2fb63b7e8f8;Dinu Atanase;Liceul Teoretic ELF;2af7b987-7953-414c-8945-4f7baabd53cb
+83943946-86bc-4083-93da-9a8db6f534dc;Virgiliu Andreea;Liceul Teoretic ELF;2af7b987-7953-414c-8945-4f7baabd53cb
+1673d17e-76ab-4bc9-a501-ece7c6da0bc0;Stelian Emilian;Liceul Teoretic ELF;2af7b987-7953-414c-8945-4f7baabd53cb
+8ef1447a-6f53-46a5-883c-ca585ccbf4af;Aurica Emanuela;Liceul Teoretic ELF;2af7b987-7953-414c-8945-4f7baabd53cb
+36a31876-237b-476e-bfb3-06d9ae444a4b;Sandra Luca;Liceul Teoretic ELF;2af7b987-7953-414c-8945-4f7baabd53cb
+76f9fc82-ce3b-4f30-a754-1b47ee8b4058;Marcela David;Liceul Teoretic ELF;2af7b987-7953-414c-8945-4f7baabd53cb
+5f5ef1fb-5a99-4792-b9af-6961380acb49;Constantina Serghei;Liceul Teoretic ELF;2af7b987-7953-414c-8945-4f7baabd53cb
+59c091ab-85c8-4541-9b0b-9d2f30f73ca2;Veronica Isac;Liceul Teoretic ELF;2af7b987-7953-414c-8945-4f7baabd53cb
+3186e10d-69af-46cc-bc2d-85ae47b7c2bb;Atanasie Loredana;Liceul Teoretic ELF;2af7b987-7953-414c-8945-4f7baabd53cb
+0ea8cfae-64c3-4869-8d6e-62d7365e672b;Atanase Costica;Liceul Teoretic ELF;2af7b987-7953-414c-8945-4f7baabd53cb
+a4e595bc-307b-49de-9ce5-824e629f6194;Anastasie Nicusor;Liceul Teoretic ELF;2af7b987-7953-414c-8945-4f7baabd53cb
+27f8ef2a-a8bd-4463-afcb-d22c2b460224;Flavia Eva;Liceul Teoretic ELF;2af7b987-7953-414c-8945-4f7baabd53cb
+a581a829-fab9-4322-85de-7ee0ff30a774;Mihaela Ozana;Liceul Teoretic ELF;2af7b987-7953-414c-8945-4f7baabd53cb
+0fb42d8f-d727-4720-aee2-7b95bf7f7e92;Ionel Flaviu;Scoala Gimnaziala "Gheorghe Sincai" Floresti;069d77cc-36bd-4260-a31a-24d7a386645c
+a36105c2-f355-402d-9cbd-c3c0594d274a;Cornel Dumitra;Scoala Gimnaziala "Gheorghe Sincai" Floresti;069d77cc-36bd-4260-a31a-24d7a386645c
+8af463cd-db10-45ce-88e7-76915e5d12f5;Lucian Demetra;Scoala Gimnaziala "Gheorghe Sincai" Floresti;069d77cc-36bd-4260-a31a-24d7a386645c
+4e0ea077-be40-4ad5-b311-2a23f5d3e264;Marius Lidia;Scoala Gimnaziala "Gheorghe Sincai" Floresti;069d77cc-36bd-4260-a31a-24d7a386645c
+27f81d77-ad0f-4959-9626-532779553cc7;Felix Sara;Scoala Gimnaziala "Gheorghe Sincai" Floresti;069d77cc-36bd-4260-a31a-24d7a386645c
+3155e192-aaca-4160-bea4-1803665eb801;Fane Anamaria;Scoala Gimnaziala "Gheorghe Sincai" Floresti;069d77cc-36bd-4260-a31a-24d7a386645c
+e55e1a35-0bdc-405b-89aa-b95cb06f4ad5;Lidia Veaceslav;Scoala Gimnaziala "Gheorghe Sincai" Floresti;069d77cc-36bd-4260-a31a-24d7a386645c
+befdb665-5416-40ce-90fd-7324f36c2bf5;Sofia Sandu;Scoala Gimnaziala "Gheorghe Sincai" Floresti;069d77cc-36bd-4260-a31a-24d7a386645c
+f0ccdd66-a335-4e3a-a675-ef80c127d0a7;Constantina Valentin;Scoala Gimnaziala "Gheorghe Sincai" Floresti;069d77cc-36bd-4260-a31a-24d7a386645c
+18e2c49a-0170-446f-ba4f-07a6b896ec86;Camelia Margareta;Scoala Gimnaziala "Gheorghe Sincai" Floresti;069d77cc-36bd-4260-a31a-24d7a386645c
+68ebdfd6-05b7-432b-98ab-950dc4c2a86a;Ecaterina Petrut;Scoala Gimnaziala "Gheorghe Sincai" Floresti;069d77cc-36bd-4260-a31a-24d7a386645c
+24256692-1ca0-4f9b-a4d5-edab7aadc5c9;Codrin Alexandru;Scoala Gimnaziala "Gheorghe Sincai" Floresti;069d77cc-36bd-4260-a31a-24d7a386645c
+fb7028b0-e27d-49ee-888d-314ef709fb2b;Cornelia Anton;Scoala Gimnaziala "Gheorghe Sincai" Floresti;069d77cc-36bd-4260-a31a-24d7a386645c
+75fe8cac-14c1-4fb6-b99c-d31abf6edca3;Margareta Rafael;Scoala Gimnaziala "Gheorghe Sincai" Floresti;069d77cc-36bd-4260-a31a-24d7a386645c
+10e7bd72-ec36-4213-b7f9-afc33ceaccba;Daniela Sabina;Scoala Gimnaziala "Gheorghe Sincai" Floresti;069d77cc-36bd-4260-a31a-24d7a386645c
