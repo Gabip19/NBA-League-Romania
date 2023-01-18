@@ -34,11 +34,12 @@ internal class Program
         //     Console.WriteLine(team);
         // }
 
-        // Populate(teamRepo, playerRepo);
+        // Populate(teamRepo, playerRepo, gameRepo, activePlayerRepo);
         // PopulateStudents(studentRepo);
     }
 
-    private static void Populate(TeamInFileRepo teamInFileRepo, PlayerInFileRepo playerInFileRepo)
+    private static void Populate(TeamInFileRepo teamInFileRepo, PlayerInFileRepo playerInFileRepo,
+        GameInFileRepo gameInFileRepo, ActivePlayerInFileRepo activePlayerInFileRepo)
     {
         var t1 = new Team("Houston Rockets");
         teamInFileRepo.Save(t1);
@@ -131,6 +132,45 @@ internal class Program
         };
         
         PopulatePlayers(playerInFileRepo, teams);
+        PopulateGames(gameInFileRepo, teams);
+        PopulateActivePlayers(activePlayerInFileRepo, playerInFileRepo, gameInFileRepo);
+    }
+
+    private static void PopulateGames(GameInFileRepo gameInFileRepo, List<Team> teams)
+    {
+        List<Game> games = new List<Game>();
+        games.Add(new Game(teams[17], teams[21], DateTime.Parse("2017-03-26T19:24:45Z")));
+        games.Add(new Game(teams[22], teams[0], DateTime.Parse("2017-04-09T14:14:37Z")));
+        games.Add(new Game(teams[11], teams[12], DateTime.Parse("2017-04-11T00:06:01Z")));
+        games.Add(new Game(teams[2],	teams[3], DateTime.Parse("2017-06-05T04:39:59Z")));
+        games.Add(new Game(teams[15], teams[27], DateTime.Parse("2017-08-07T00:41:45Z")));
+        games.Add(new Game(teams[23], teams[21], DateTime.Parse("2017-09-24T13:41:25Z")));
+        games.Add(new Game(teams[18], teams[2], DateTime.Parse("2017-09-29T11:07:31Z")));
+        games.Add(new Game(teams[21], teams[25], DateTime.Parse("2017-11-03T06:32:48Z")));
+        games.Add(new Game(teams[8],	teams[6], DateTime.Parse("2018-03-02T13:28:36Z")));
+        games.Add(new Game(teams[20], teams[9], DateTime.Parse("2018-03-06T23:15:52Z")));
+        games.Add(new Game(teams[1],	teams[22], DateTime.Parse("2018-04-29T16:31:14Z")));
+        games.Add(new Game(teams[6],	teams[1], DateTime.Parse("2018-05-15T02:52:11Z")));
+        games.Add(new Game(teams[23], teams[26], DateTime.Parse("2018-11-02T04:47:20Z")));
+        games.Add(new Game(teams[11], teams[6], DateTime.Parse("2018-11-04T06:52:26Z")));
+        games.Add(new Game(teams[0],	teams[25], DateTime.Parse("2019-03-27T09:13:52Z")));
+        games.Add(new Game(teams[19], teams[5], DateTime.Parse("2019-07-17T06:35:25Z")));
+        games.Add(new Game(teams[6],	teams[10], DateTime.Parse("2019-09-05T11:46:24Z")));
+        games.Add(new Game(teams[15], teams[6], DateTime.Parse("2019-09-28T22:02:17Z")));
+        games.Add(new Game(teams[18], teams[15], DateTime.Parse("2019-10-22T12:37:28Z")));
+        games.Add(new Game(teams[15], teams[16], DateTime.Parse("2019-12-28T06:29:45Z")));
+        games.Add(new Game(teams[12], teams[13], DateTime.Parse("2020-05-06T03:12:10Z")));
+        games.Add(new Game(teams[22], teams[10], DateTime.Parse("2020-08-09T06:44:30Z")));
+        games.Add(new Game(teams[9],	teams[14], DateTime.Parse("2021-01-13T16:58:56Z")));
+        games.Add(new Game(teams[5],	teams[16], DateTime.Parse("2021-04-16T07:50:13Z")));
+        games.Add(new Game(teams[3],	teams[16], DateTime.Parse("2021-09-16T09:16:05Z")));
+        games.Add(new Game(teams[13], teams[22], DateTime.Parse("2022-01-15T07:44:32Z")));
+        games.Add(new Game(teams[9],	teams[26], DateTime.Parse("2022-03-15T09:03:49Z")));
+        games.Add(new Game(teams[5],	teams[8], DateTime.Parse("2022-04-20T09:47:21Z")));
+        games.Add(new Game(teams[26], teams[4], DateTime.Parse("2022-05-27T22:18:37Z")));
+        games.Add(new Game(teams[27], teams[10], DateTime.Parse("2022-07-25T05:55:33Z")));
+        
+        games.ForEach(x => gameInFileRepo.Save(x));
     }
 
     private static void PopulatePlayers(PlayerInFileRepo repo, List<Team> teams)
@@ -609,6 +649,29 @@ internal class Program
         repo.Save(new Player("Cornelia Anton", "Scoala Gimnaziala \"Gheorghe Sincai\" Floresti", teams[27]));
         repo.Save(new Player("Margareta Rafael", "Scoala Gimnaziala \"Gheorghe Sincai\" Floresti", teams[27]));
         repo.Save(new Player("Daniela Sabina", "Scoala Gimnaziala \"Gheorghe Sincai\" Floresti", teams[27]));
+    }
+
+    private static void PopulateActivePlayers(ActivePlayerInFileRepo activePlayerInFileRepo, PlayerInFileRepo playerInFileRepo, GameInFileRepo gameInFileRepo)
+    {
+        gameInFileRepo.FindAll()
+            .ToList()
+            .ForEach(game =>
+                {
+                    playerInFileRepo.FindAll()
+                        .Where(player => 
+                            player.Team.Id.Equals(game.FirstTeam.Id) || 
+                            player.Team.Id.Equals(game.SecondTeam.Id))
+                        .ToList()
+                        .ForEach(player =>
+                        {
+                            var random = new Random();
+                            var points = random.Next(5, 21);
+                            activePlayerInFileRepo.Save(
+                                new ActivePlayer(player.Id, game.Id, points, ActivePlayerType.Participant)
+                            );
+                        });
+                }
+            );
     }
 
     private static void PopulateStudents(StudentInFileRepo repo)

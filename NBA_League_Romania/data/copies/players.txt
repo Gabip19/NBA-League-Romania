@@ -1,4 +1,4 @@
-339ed560-67b4-42d1-9dba-19eb744106a2;Cristina Adriana;Scoala Gimnaziala Horea;6059ca4f-985f-4906-a6f7-6c05664a2e76
+﻿339ed560-67b4-42d1-9dba-19eb744106a2;Cristina Adriana;Scoala Gimnaziala Horea;6059ca4f-985f-4906-a6f7-6c05664a2e76
 a0d61bce-f690-4b77-aa7a-f7c71b84cd2e;Adela Petronela;Scoala Gimnaziala Horea;6059ca4f-985f-4906-a6f7-6c05664a2e76
 312b1f9a-0161-443a-b848-2214b5374829;Iuliu Ani;Scoala Gimnaziala Horea;6059ca4f-985f-4906-a6f7-6c05664a2e76
 dccb6358-bfdc-4b5d-8781-d538ad26173c;Iulian Maricica;Scoala Gimnaziala Horea;6059ca4f-985f-4906-a6f7-6c05664a2e76
