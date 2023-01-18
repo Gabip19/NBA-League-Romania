@@ -1,5 +1,27 @@
-fcc2cac2-262f-4193-8920-b7e2b1bf2e25;Echipa 1
-93ae81c7-8ebd-4a41-bbb0-2b38d119a5a4;Echipa 2
-261f1d4c-9709-467d-8a12-2f4cc8d69b07;Echipa 3
-81608f02-c746-4ad8-afc9-4778170866db;Echipa 1
-d006a4e9-a9d9-4239-9ae2-21a230d60803;Echipa 1
+7552a14f-d5b9-4949-bb3a-fb8d901be247;Houston Rockets
+45dba368-2a36-4ab7-bb43-6647ae6818ab;Los Angeles Lakers
+2ecf761a-2c77-4c8e-876c-f70e1a7f6ebe;LA Clippers
+2d17a42c-b963-4777-a4a9-fa767fcff2f6;Chicago Bulls
+f79458ac-0bbe-4e76-975c-1087e528cc48;Cleveland Cavaliers
+239935d2-8252-45bd-92fc-f2604e90f125;Utah Jazz
+0424217e-84e6-49bf-91f5-f1fc237fae14;Brooklyn Nets
+8919bf57-d230-4589-8b86-05e74aec2a3b;New Orleans Pelicans
+e3b0e7dd-3a46-4ab9-a11a-6359b0f818b0;Indiana Pacers
+f0bd1b9a-485f-438f-b478-9ef3b826649f;Toronto Raptors
+ab0a434a-78f5-414d-9180-38df2bd803a5;Charlotte Hornets
+7ea68059-329f-43d5-b791-d162db6d2d42;Phoenix Suns
+f2588196-4c79-4759-b204-cf88f345de3a;Portland TrailBlazers
+f7a3ccbc-dea9-48a0-bcee-94af9571b95e;Golden State Warriors
+dd2bfc5c-52d1-4906-bbbe-d390c90fdd4f;Washington Wizards
+5382c9fd-9a0f-4e68-9046-f1c6c367bb87;San Antonio Spurs
+5b225324-7384-4552-8000-3fbcfe0607f9;Orlando Magic
+e9aa9747-4731-48c9-b01c-b7021b44cdf7;Denver Nuggets
+f18af607-f70d-45c4-8be8-06283299c092;Detroit Pistons
+b0ebbdba-356d-4769-9fcf-6dd534ec8451;Atlanta Hawks
+02aaa95f-90c2-4702-8686-763441b32c92;Dallas Mavericks
+8cfe89c4-a8c5-4fc5-acd4-8d128840328c;Sacramento Kings
+a178e7eb-dd53-4ad5-9768-e500fb38203c;Oklahoma City Thunder
+f56f6cab-ee87-46b5-935e-9e4a5de1ff59;Boston Celtics
+9f029251-b257-4d6e-a0bd-aa3dea8ca87a;New York Knicks
+344564b0-63dc-4081-811a-f33b5cc3831b;Minnesota Timberwolves
+aba53432-d1bb-4bcd-a412-c5991a76e3e6;Milwaukee Bucks
