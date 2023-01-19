@@ -9,7 +9,6 @@ public class ActivePlayerInFileRepo : InFileRepo<ActivePlayer>
 
     protected override string CreateEntityAsString(ActivePlayer entity)
     {
-        return entity.Id + ";" + entity.PlayerId + ";" + entity.GameId + ";" +
-               entity.ScoredPoints + ";" + entity.Type;
+        return EntityToFileFactory.GetEntityAsString(entity);
     }
 }

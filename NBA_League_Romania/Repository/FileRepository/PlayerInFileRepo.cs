@@ -33,7 +33,6 @@ public class PlayerInFileRepo : InFileRepo<Player>
 
     protected override string CreateEntityAsString(Player entity)
     {
-        return entity.Id + ";" + entity.Name + ";" + entity.School + ";" +
-               entity.Team.Id;
+        return EntityToFileFactory.GetEntityAsString(entity);
     }
 }

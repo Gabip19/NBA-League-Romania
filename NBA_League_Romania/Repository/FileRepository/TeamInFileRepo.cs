@@ -8,6 +8,6 @@ public class TeamInFileRepo : InFileRepo<Team>
 
     protected override string CreateEntityAsString(Team entity)
     {
-        return entity.Id + ";" + entity.Name;
+        return EntityToFileFactory.GetEntityAsString(entity);
     }
 }

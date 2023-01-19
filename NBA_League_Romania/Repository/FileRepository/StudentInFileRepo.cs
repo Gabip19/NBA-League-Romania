@@ -8,6 +8,6 @@ public class StudentInFileRepo : InFileRepo<Student>
 
     protected override string CreateEntityAsString(Student entity)
     {
-        return entity.Id + ";" + entity.Name + ";" + entity.School;
+        return EntityToFileFactory.GetEntityAsString(entity);
     }
 }

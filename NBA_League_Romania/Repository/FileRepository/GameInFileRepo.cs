@@ -26,6 +26,6 @@ public class GameInFileRepo : InFileRepo<Game>
 
     protected override string CreateEntityAsString(Game entity)
     {
-        return entity.Id + ";" + entity.FirstTeam.Id + ";" + entity.SecondTeam.Id + ";" + entity.GameDate;
+        return EntityToFileFactory.GetEntityAsString(entity);
     }
 }

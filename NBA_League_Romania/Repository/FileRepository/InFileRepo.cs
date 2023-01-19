@@ -57,5 +57,6 @@ public abstract class InFileRepo<E> : InMemoryRepo<E>
             WriteToFile(entity);
         }
     }
+    
     protected abstract string CreateEntityAsString(E entity);
 }
