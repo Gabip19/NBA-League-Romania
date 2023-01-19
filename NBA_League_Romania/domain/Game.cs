@@ -33,4 +33,10 @@ public class Game : Entity<Guid>
         get => gameDate;
         set => gameDate = value;
     }
+
+    public override string ToString()
+    {
+        return "Team 1:  " + firstTeam.Name + "   Team 2:  " + secondTeam.Name +
+               "   Date:  " + gameDate;
+    }
 }

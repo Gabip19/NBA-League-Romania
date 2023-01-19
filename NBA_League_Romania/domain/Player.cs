@@ -16,4 +16,9 @@ public class Player : Student
         get => team;
         set => team = value ?? throw new ArgumentNullException(nameof(value));
     }
+
+    public override string ToString()
+    {
+        return "Name:  " + Name + "   School:  " + School + "   Team:  " + Team.Name;
+    }
 }

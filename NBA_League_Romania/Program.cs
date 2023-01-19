@@ -1,5 +1,6 @@
 ﻿using NBA_League_Romania.domain;
 using NBA_League_Romania.Repository.FileRepository;
+using NBA_League_Romania.UI;
 
 //TODO delegates for writing an entity to file too
 
@@ -8,6 +9,38 @@ namespace NBA_League_Romania;
 internal class Program
 {
     public static void Main(string[] args)
+    {
+        var teamRepo = new TeamInFileRepo(
+            "D:\\Coding Projects\\CSharpProjects\\NBA_League_Romania\\NBA_League_Romania\\data\\teams.txt"
+        );
+        var studentRepo = new StudentInFileRepo(
+            "D:\\Coding Projects\\CSharpProjects\\NBA_League_Romania\\NBA_League_Romania\\data\\students.txt"
+        );
+        var playerRepo = new PlayerInFileRepo(
+            "D:\\Coding Projects\\CSharpProjects\\NBA_League_Romania\\NBA_League_Romania\\data\\players.txt",
+            teamRepo.FindOne
+        );
+        var gameRepo = new GameInFileRepo(
+            "D:\\Coding Projects\\CSharpProjects\\NBA_League_Romania\\NBA_League_Romania\\data\\games.txt",
+            teamRepo.FindOne
+        );
+        var activePlayerRepo = new ActivePlayerInFileRepo(
+            "D:\\Coding Projects\\CSharpProjects\\NBA_League_Romania\\NBA_League_Romania\\data\\activeplayers.txt"
+        );
+
+        var service = new Service.Service(
+            teamRepo,
+            studentRepo,
+            playerRepo,
+            gameRepo,
+            activePlayerRepo
+        );
+
+        var ui = new ConsoleUi(service);
+        ui.Run();
+    }
+    
+    public static void Main2(string[] args)
     {
         Console.WriteLine("Hello, World!");
         
@@ -29,11 +62,6 @@ internal class Program
             "D:\\Coding Projects\\CSharpProjects\\NBA_League_Romania\\NBA_League_Romania\\data\\activeplayers.txt"
         );
         
-        // foreach (var team in teamRepo.FindAll())
-        // {
-        //     Console.WriteLine(team);
-        // }
-
         // Populate(teamRepo, playerRepo, gameRepo, activePlayerRepo);
         // PopulateStudents(studentRepo);
     }
