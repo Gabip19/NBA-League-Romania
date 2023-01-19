@@ -32,25 +32,58 @@ public class Service
 
     public List<Player> GetAllPlayersForTeam(Team team)
     {
-        return
-            (from player in playerRepo.FindAll()
-                where player.Team.Id.Equals(team.Id)
-                select player)
-            .ToList();
+        return (
+            from player in playerRepo.FindAll()
+            where player.Team.Id.Equals(team.Id)
+            select player
+        ).ToList();
     }
 
     public List<Player> GetActivePlayersForGame(Game game, Team team)
     {
-        throw new NotImplementedException();
+        return (
+            from activePlayer in activePlayerRepo.FindAll()
+            join player in playerRepo.FindAll()
+                on activePlayer.PlayerId equals player.Id
+            where activePlayer.GameId == game.Id &&
+                  player.Team.Id == team.Id &&
+                  activePlayer.Type.Equals(ActivePlayerType.Participant)
+            select player
+        ).ToList();
     }
 
     public List<Game> GetAllGamesFromPeriod(DateOnly startDate, DateOnly endDate)
     {
-        throw new NotImplementedException();
+        if (startDate >= endDate)
+        {
+            throw new Exception("\nStart date must be before end date.\n");
+        }
+        return (
+            from game in gameRepo.FindAll()
+            where startDate <= DateOnly.FromDateTime(game.GameDate) &&
+                  DateOnly.FromDateTime(game.GameDate) <= endDate
+            select game
+        ).ToList();
     }
 
     public Tuple<int, int> GetScoreForGame(Game game)
     {
-        throw new NotImplementedException();
+        int firstTeamScore = GetTeamScore(game, game.FirstTeam);
+        int secondTeamScore = GetTeamScore(game, game.SecondTeam);
+
+        return new Tuple<int, int>(firstTeamScore, secondTeamScore);
+    }
+
+    private int GetTeamScore(Game game, Team teamT)
+    {
+        return (from activePlayer in activePlayerRepo.FindAll()
+                join player in playerRepo.FindAll()
+                    on activePlayer.PlayerId equals player.Id
+                join team in teamRepo.FindAll()
+                    on player.Team.Id equals team.Id
+                where activePlayer.GameId == game.Id &&
+                      team.Id == teamT.Id
+                select activePlayer.ScoredPoints
+        ).Sum();
     }
 }

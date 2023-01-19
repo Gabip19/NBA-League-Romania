@@ -76,7 +76,7 @@ public class ConsoleUi
     {
         if (list.Count == 0)
         {
-            Console.WriteLine("List is empty.");
+            Console.WriteLine("\nList is empty.\n");
             return;
         }
         Console.WriteLine();

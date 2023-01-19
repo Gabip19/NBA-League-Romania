@@ -2,7 +2,6 @@
 using NBA_League_Romania.Repository.FileRepository;
 using NBA_League_Romania.UI;
 
-//TODO delegates for writing an entity to file too
 
 namespace NBA_League_Romania;
 
