@@ -5,13 +5,17 @@ public class Student : Entity<Guid>
     private string name;
     private string school;
 
-    public Student() {}
+    public Student()
+    {
+        name = "";
+        school = "";
+    }
     
     public Student(string name, string school)
     {
         this.name = name;
         this.school = school;
-        base.Id = Guid.NewGuid();
+        Id = Guid.NewGuid();
     }
 
     public string Name

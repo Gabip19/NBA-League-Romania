@@ -16,7 +16,7 @@ public static class EntityToFileFactory
     public static string GetEntityAsString(Player entity)
     {
         return entity.Id + ";" + entity.Name + ";" + entity.School + ";" +
-               entity.Team.Id;
+               entity.Team?.Id;
     }
     
     public static string GetEntityAsString(Student entity)

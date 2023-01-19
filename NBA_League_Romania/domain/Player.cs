@@ -2,7 +2,7 @@
 
 public class Player : Student
 {
-    private Team team;
+    private Team? team;
 
     public Player(string name, string school, Team team) : base(name, school)
     {
@@ -11,7 +11,7 @@ public class Player : Student
 
     public Player() { }
 
-    public Team Team
+    public Team? Team
     {
         get => team;
         set => team = value ?? throw new ArgumentNullException(nameof(value));
@@ -19,6 +19,6 @@ public class Player : Student
 
     public override string ToString()
     {
-        return "Name:  " + Name + "   School:  " + School + "   Team:  " + Team.Name;
+        return "Name:  " + Name + "   School:  " + School + "   Team:  " + Team?.Name;
     }
 }

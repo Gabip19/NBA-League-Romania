@@ -8,9 +8,9 @@ public abstract class InFileRepo<E> : InMemoryRepo<E>
     where E : Entity<Guid>, new()
 {
     protected string fileName;
-    protected CreateEntity<E> createEntity;
+    private CreateEntity<E>? createEntity;
 
-    protected InFileRepo(string fileName, CreateEntity<E> createEntity)
+    protected InFileRepo(string fileName, CreateEntity<E>? createEntity)
     {
         this.fileName = fileName;
         this.createEntity = createEntity;
@@ -18,12 +18,15 @@ public abstract class InFileRepo<E> : InMemoryRepo<E>
             LoadFromFile();
     }
 
-    protected virtual void LoadFromFile()
+    protected void LoadFromFile()
     {
-        List<E> entitiesList = DataReader.ReadData(fileName, createEntity);
-        entitiesList.ForEach(
-            x => entities[x.Id] = x
-        );
+        if (createEntity != null)
+        {
+            List<E> entitiesList = DataReader.ReadData(fileName, createEntity);
+            entitiesList.ForEach(
+                x => entities[x.Id] = x
+            );
+        }
     }
 
     public override E Save(E entity)
@@ -52,7 +55,7 @@ public abstract class InFileRepo<E> : InMemoryRepo<E>
     private void UpdateFile()
     {
         new StreamWriter(fileName, append: false).Close();
-        foreach (var entity in base.FindAll())
+        foreach (var entity in FindAll())
         {
             WriteToFile(entity);
         }

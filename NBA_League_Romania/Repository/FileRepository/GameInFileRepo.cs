@@ -12,7 +12,7 @@ public class GameInFileRepo : InFileRepo<Game>
         LoadFromFile();
     }
 
-    protected override void LoadFromFile()
+    protected new void LoadFromFile()
     {
         File.ReadLines(fileName).ToList()
             .ForEach(line =>

@@ -1,6 +1,4 @@
-﻿using NBA_League_Romania.Repository.FileRepository;
-
-namespace NBA_League_Romania.Repository;
+﻿namespace NBA_League_Romania.Repository;
 
 public delegate E CreateEntity<E>(string[] properties);
 

@@ -12,15 +12,8 @@ public class PlayerInFileRepo : InFileRepo<Player>
         LoadFromFile();
     }
 
-    protected override void LoadFromFile()
+    protected new void LoadFromFile()
     {
-        // foreach (var line in File.ReadLines(fileName))
-        // {
-        //     var properties = line.Split(";");
-        //     Player player = EntityFactory.CreatePlayer(properties, teamFinder);
-        //     entities[player.Id] = player;
-        // }
-
         File.ReadLines(fileName).ToList()
             .ForEach(line =>
                 {

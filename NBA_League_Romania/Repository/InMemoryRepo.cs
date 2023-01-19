@@ -7,7 +7,7 @@ public class InMemoryRepo<E> : IRepository<Guid, E>
 {
     protected Dictionary<Guid, E> entities;
 
-    public InMemoryRepo()
+    protected InMemoryRepo()
     {
         entities = new Dictionary<Guid, E>();
     }

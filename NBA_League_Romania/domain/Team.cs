@@ -7,10 +7,10 @@ public class Team : Entity<Guid>
     public Team(string name)
     {
         this.name = name;
-        base.Id = Guid.NewGuid();
+        Id = Guid.NewGuid();
     }
 
-    public Team() { }
+    public Team() { name = ""; }
 
     public string Name
     {

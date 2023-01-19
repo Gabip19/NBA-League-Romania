@@ -4,7 +4,7 @@ public class Game : Entity<Guid>
 {
     private Team firstTeam;
     private Team secondTeam;
-    private DateTime gameDate;
+    public DateTime GameDate { get; set; }
 
     public Game() { }
     
@@ -12,7 +12,7 @@ public class Game : Entity<Guid>
     {
         this.firstTeam = firstTeam;
         this.secondTeam = secondTeam;
-        this.gameDate = gameDate;
+        this.GameDate = gameDate;
         base.Id = Guid.NewGuid();
     }
 
@@ -28,15 +28,9 @@ public class Game : Entity<Guid>
         set => secondTeam = value ?? throw new ArgumentNullException(nameof(value));
     }
 
-    public DateTime GameDate
-    {
-        get => gameDate;
-        set => gameDate = value;
-    }
-
     public override string ToString()
     {
         return "Team 1:  " + firstTeam.Name + "   Team 2:  " + secondTeam.Name +
-               "   Date:  " + gameDate;
+               "   Date:  " + GameDate;
     }
 }
